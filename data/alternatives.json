@@ -19,7 +19,8 @@
           "Steep learning curve",
           "UI feels dated",
           "No CMYK by default"
-        ]
+        ],
+        "best_for": "Photo editing on a budget"
       },
       {
         "name": "Photopea",
@@ -36,7 +37,8 @@
           "Ads on free version",
           "Requires internet",
           "Slower on large files"
-        ]
+        ],
+        "best_for": "Browser-based quick edits"
       },
       {
         "name": "Krita",
@@ -53,7 +55,8 @@
           "Less photo-focused",
           "Fewer photo filters",
           "Not a PSD replacement"
-        ]
+        ],
+        "best_for": "Digital painting"
       }
     ]
   },
@@ -77,7 +80,8 @@
           "Requires internet",
           "Limited offline mode",
           "Fewer formatting options"
-        ]
+        ],
+        "best_for": "Collaborative writing"
       },
       {
         "name": "LibreOffice Writer",
@@ -94,7 +98,8 @@
           "Dated interface",
           "No cloud sync",
           "Collaboration limited"
-        ]
+        ],
+        "best_for": "Offline document editing"
       },
       {
         "name": "OnlyOffice",
@@ -111,7 +116,8 @@
           "Setup more complex",
           "Smaller community",
           "Cloud version limited"
-        ]
+        ],
+        "best_for": "Microsoft Office compatibility"
       }
     ]
   },
@@ -135,7 +141,8 @@
           "Slow on complex files",
           "UI different from Illustrator",
           "No cloud features"
-        ]
+        ],
+        "best_for": "Professional vector work"
       },
       {
         "name": "Figma",
@@ -152,7 +159,8 @@
           "3 project limit on free",
           "Not for print design",
           "Requires internet"
-        ]
+        ],
+        "best_for": "UI/UX design collaboration"
       },
       {
         "name": "Vectr",
@@ -169,7 +177,8 @@
           "Limited features",
           "Not for complex work",
           "Small community"
-        ]
+        ],
+        "best_for": "Quick vector graphics"
       }
     ]
   },
@@ -193,7 +202,8 @@
           "Payment processing fees",
           "No inventory tracking",
           "Limited payroll"
-        ]
+        ],
+        "best_for": "Small business accounting"
       },
       {
         "name": "Manager.io",
@@ -210,7 +220,8 @@
           "Cloud version paid",
           "Dated interface",
           "Learning curve"
-        ]
+        ],
+        "best_for": "Offline bookkeeping"
       },
       {
         "name": "GnuCash",
@@ -227,7 +238,8 @@
           "Dated interface",
           "No invoicing features",
           "Not cloud-based"
-        ]
+        ],
+        "best_for": "Double-entry accounting"
       }
     ]
   },
@@ -251,7 +263,8 @@
           "Steep learning curve",
           "Dated UI",
           "iOS app paid"
-        ]
+        ],
+        "best_for": "Serious memorization"
       },
       {
         "name": "Brainscape",
@@ -268,7 +281,8 @@
           "Pro needed for unlimited",
           "Fewer shared decks",
           "Limited free mode"
-        ]
+        ],
+        "best_for": "Visual learners"
       },
       {
         "name": "StudyBlue",
@@ -285,7 +299,8 @@
           "Mostly paid now",
           "Limited free features",
           "Ads heavy"
-        ]
+        ],
+        "best_for": "Gamified studying"
       }
     ]
   },
@@ -309,7 +324,8 @@
           "3 docs per month limit",
           "No payment collection",
           "Limited templates"
-        ]
+        ],
+        "best_for": "Occasional document signing"
       },
       {
         "name": "HelloSign (Dropbox Sign)",
@@ -326,7 +342,8 @@
           "3 docs per month",
           "No templates on free",
           "Storage limited"
-        ]
+        ],
+        "best_for": "Simple e-signatures"
       },
       {
         "name": "DocuSeal",
@@ -343,7 +360,8 @@
           "Self-hosting needed for unlimited",
           "Smaller community",
           "Setup complexity"
-        ]
+        ],
+        "best_for": "Self-hosted signing"
       }
     ]
   },
@@ -367,7 +385,8 @@
           "State filing costs extra",
           "Basic interface",
           "No audit defense free"
-        ]
+        ],
+        "best_for": "Simple tax returns"
       },
       {
         "name": "Cash App Taxes",
@@ -384,7 +403,8 @@
           "No complex returns",
           "Must have Cash App account",
           "Limited support"
-        ]
+        ],
+        "best_for": "Completely free filing"
       },
       {
         "name": "IRS Free File",
@@ -401,7 +421,8 @@
           "Income limit $84K",
           "State may cost extra",
           "Limited brands"
-        ]
+        ],
+        "best_for": "Low-income filing"
       }
     ]
   },
@@ -425,7 +446,8 @@
           "Desktop only for some tools",
           "Basic editing",
           "No OCR on free"
-        ]
+        ],
+        "best_for": "All-in-one PDF toolkit"
       },
       {
         "name": "Sejda PDF",
@@ -442,7 +464,8 @@
           "3 tasks per day limit",
           "50MB file limit",
           "200 page limit"
-        ]
+        ],
+        "best_for": "In-browser PDF editing"
       },
       {
         "name": "LibreOffice Draw",
@@ -459,7 +482,8 @@
           "Not PDF-focused tool",
           "Clunky for complex PDFs",
           "Formatting issues"
-        ]
+        ],
+        "best_for": "Basic PDF text edits"
       }
     ]
   },
@@ -483,7 +507,8 @@
           "Steep learning curve",
           "Darker interface",
           "Slower than Lightroom"
-        ]
+        ],
+        "best_for": "Professional RAW editing"
       },
       {
         "name": "RawTherapee",
@@ -500,7 +525,8 @@
           "No photo organizing",
           "Complex interface",
           "No cloud sync"
-        ]
+        ],
+        "best_for": "Detailed color control"
       },
       {
         "name": "LightZone",
@@ -517,7 +543,8 @@
           "Small community",
           "Limited features",
           "Dated UI"
-        ]
+        ],
+        "best_for": "Zone system enthusiasts"
       }
     ]
   },
@@ -541,7 +568,8 @@
           "Interface cluttered",
           "Sync can be slow",
           "Limited export options"
-        ]
+        ],
+        "best_for": "Cross-platform notes"
       },
       {
         "name": "GoodNotes (Free Tier)",
@@ -558,7 +586,8 @@
           "3 notebook limit",
           "Some features locked",
           "iOS/Mac only"
-        ]
+        ],
+        "best_for": "iPad handwriting"
       },
       {
         "name": "Apple Notes",
@@ -575,7 +604,8 @@
           "Apple devices only",
           "Limited organization",
           "No cross-platform"
-        ]
+        ],
+        "best_for": "Simple built-in option"
       }
     ]
   },
@@ -599,7 +629,8 @@
           "Ads between songs",
           "No background play (mobile)",
           "Limited skips"
-        ]
+        ],
+        "best_for": "Discovery and variety"
       },
       {
         "name": "Pandora Free",
@@ -616,7 +647,8 @@
           "Radio-style only",
           "Limited skips",
           "Ads frequent"
-        ]
+        ],
+        "best_for": "Radio-style listening"
       },
       {
         "name": "SoundCloud Free",
@@ -633,7 +665,8 @@
           "Ads on free tier",
           "Some tracks premium only",
           "Mainstream gaps"
-        ]
+        ],
+        "best_for": "Independent music"
       }
     ]
   },
@@ -657,7 +690,8 @@
           "Fewer style suggestions",
           "No tone detection",
           "Less polished UI"
-        ]
+        ],
+        "best_for": "Multi-language checking"
       },
       {
         "name": "ProWritingAid Free",
@@ -674,7 +708,8 @@
           "500 word limit free",
           "Fewer suggestions free",
           "Upsell heavy"
-        ]
+        ],
+        "best_for": "Detailed writing analysis"
       },
       {
         "name": "Hemingway Editor",
@@ -691,7 +726,8 @@
           "No grammar checking",
           "Desktop app paid",
           "No suggestions"
-        ]
+        ],
+        "best_for": "Readability focus"
       }
     ]
   },
@@ -701,72 +737,80 @@
     "paid_price": "$20/mo",
     "alternatives": [
       {
-        "name": "Google Gemini",
-        "url": "https://gemini.google.com",
+        "name": "OpenWebUI + Ollama",
+        "url": "https://openwebui.com",
         "free_tier": "Fully Free",
-        "license": "Freemium",
-        "description": "Google's AI assistant. Free tier includes Gemini 2.0 Flash with multimodal capabilities.",
+        "license": "Open Source",
+        "description": "Run ChatGPT-level models locally on your machine. No internet, no subscription, no data leaving your computer. Uses open models like Llama 3, Qwen, and Mistral.",
         "pros": [
-          "Multimodal (text, image, video)",
-          "Google integration",
-          "Large context window"
+          "Complete privacy \u2014 runs on your hardware",
+          "No usage limits ever",
+          "Works offline once downloaded",
+          "Multiple models in one interface"
         ],
         "cons": [
-          "Fewer features than Plus",
-          "Rate limited",
-          "No custom GPTs"
-        ]
+          "Needs 8GB+ RAM for decent models",
+          "Slower than cloud APIs",
+          "Setup requires some technical knowledge"
+        ],
+        "best_for": "Complete privacy"
       },
       {
-        "name": "Claude (Free Tier)",
-        "url": "https://claude.ai",
-        "free_tier": "Limited free",
-        "license": "Freemium",
-        "description": "Anthropic's AI assistant. Excellent for writing, coding, and analysis. Free tier with daily limits.",
-        "pros": [
-          "Excellent writing quality",
-          "Large context window",
-          "Strong at coding"
-        ],
-        "cons": [
-          "Daily message limit",
-          "No file uploads on free",
-          "Peak hour restrictions"
-        ]
-      },
-      {
-        "name": "Microsoft Copilot",
-        "url": "https://copilot.microsoft.com",
+        "name": "Groq (free tier)",
+        "url": "https://groq.com",
         "free_tier": "Fully Free",
         "license": "Freemium",
-        "description": "AI assistant powered by GPT-4. Free with Microsoft account. Includes image generation.",
+        "description": "Blazing fast inference of open models (Llama 3.3 70B, Mixtral) on custom LPU hardware. Free API with generous limits. Faster than ChatGPT for most tasks.",
         "pros": [
-          "GPT-4 powered",
-          "Free image generation",
-          "Web search built-in"
+          "Extremely fast \u2014 500+ tokens/sec",
+          "Free API access",
+          "Open models (not proprietary)",
+          "Good for developers"
         ],
         "cons": [
-          "Microsoft account required",
-          "Limited conversations",
-          "Slower than Plus"
-        ]
+          "Rate limited on free tier",
+          "No image/file analysis",
+          "Developer-focused, not consumer-friendly"
+        ],
+        "best_for": "Speed (fastest inference)"
       },
       {
-        "name": "Mistral Le Chat",
-        "url": "https://chat.mistral.ai",
+        "name": "HuggingChat",
+        "url": "https://huggingface.co/chat",
         "free_tier": "Fully Free",
-        "license": "Freemium",
-        "description": "European AI assistant with strong multilingual support. Free tier available.",
+        "license": "Open Source",
+        "description": "Chat interface for the best open-source models. Switch between Llama 3, Command R+, Mixtral, and more. Free with no account limits.",
         "pros": [
-          "Fast responses",
-          "Good multilingual support",
-          "EU privacy compliant"
+          "Multiple top open models",
+          "Web search included",
+          "No rate limits",
+          "Assistants like custom GPTs"
         ],
         "cons": [
-          "Smaller model",
-          "No plugins",
-          "Less capable for coding"
-        ]
+          "No GPT-4 level model",
+          "No image generation",
+          "Slower than paid services"
+        ],
+        "best_for": "Multiple open models"
+      },
+      {
+        "name": "LocalPipe / Jan",
+        "url": "https://jan.ai",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Desktop app that runs AI models locally with a ChatGPT-like interface. Download models with one click, chat offline, zero cost.",
+        "pros": [
+          "One-click model downloads",
+          "Clean desktop UI",
+          "Works completely offline",
+          "No account needed"
+        ],
+        "cons": [
+          "Limited to small models on most laptops",
+          "No web search",
+          "No multimodal features"
+        ],
+        "best_for": "Offline desktop use"
       }
     ]
   },
@@ -790,7 +834,8 @@
           "Steep learning curve",
           "Resource heavy",
           "Some features in Studio only"
-        ]
+        ],
+        "best_for": "Professional grading"
       },
       {
         "name": "CapCut",
@@ -807,7 +852,8 @@
           "Watermark on some exports",
           "Limited advanced tools",
           "Cloud features paid"
-        ]
+        ],
+        "best_for": "Social media content"
       },
       {
         "name": "Shotcut",
@@ -824,7 +870,8 @@
           "Dated interface",
           "Limited effects",
           "No multicam editing"
-        ]
+        ],
+        "best_for": "Basic editing"
       }
     ]
   },
@@ -848,7 +895,8 @@
           "Node system complex",
           "Different from AE workflow",
           "Learning curve"
-        ]
+        ],
+        "best_for": "Professional compositing"
       },
       {
         "name": "Blender",
@@ -865,7 +913,8 @@
           "Not purpose-built for 2D motion",
           "Steep learning curve",
           "Different workflow"
-        ]
+        ],
+        "best_for": "3D + motion graphics"
       },
       {
         "name": "Natron",
@@ -882,7 +931,8 @@
           "Small community",
           "Limited development",
           "Buggy at times"
-        ]
+        ],
+        "best_for": "Node-based compositing"
       }
     ]
   },
@@ -906,7 +956,8 @@
           "Dated interface",
           "Learning curve",
           "No IDML import"
-        ]
+        ],
+        "best_for": "Professional print layout"
       },
       {
         "name": "Canva Free",
@@ -923,7 +974,8 @@
           "Limited free templates",
           "Not for print production",
           "Watermark on some elements"
-        ]
+        ],
+        "best_for": "Quick social designs"
       },
       {
         "name": "Affinity Publisher",
@@ -940,7 +992,8 @@
           "Not free (one-time $69.99)",
           "No subscription model",
           "Smaller plugin ecosystem"
-        ]
+        ],
+        "best_for": "InDesign file compatibility"
       }
     ]
   },
@@ -964,7 +1017,8 @@
           "Limited VST support on Mac",
           "Dated UI",
           "Smaller community"
-        ]
+        ],
+        "best_for": "Full DAW without cost"
       },
       {
         "name": "Cakewalk",
@@ -981,7 +1035,8 @@
           "Windows only",
           "Complex setup",
           "No Mac version"
-        ]
+        ],
+        "best_for": "Windows music production"
       },
       {
         "name": "GarageBand",
@@ -998,7 +1053,8 @@
           "Apple only",
           "Limited compared to pro DAWs",
           "No third-party plugin support"
-        ]
+        ],
+        "best_for": "Apple ecosystem users"
       }
     ]
   },
@@ -1022,7 +1078,8 @@
           "Not link-focused only",
           "Limited free templates",
           "Pro needed for forms"
-        ]
+        ],
+        "best_for": "Full page customization"
       },
       {
         "name": "Bio.link",
@@ -1039,7 +1096,8 @@
           "Less customizable",
           "Fewer integrations",
           "Pro features gated"
-        ]
+        ],
+        "best_for": "Simple link pages"
       },
       {
         "name": "Taplink",
@@ -1056,7 +1114,8 @@
           "Limited free plan",
           "Ads on free",
           "Pro needed for most features"
-        ]
+        ],
+        "best_for": "Commerce-enabled bio"
       }
     ]
   },
@@ -1080,7 +1139,8 @@
           "Not free long-term",
           "$14.99/mo after trial",
           "Learning curve"
-        ]
+        ],
+        "best_for": "Serious budgeters"
       },
       {
         "name": "Empower",
@@ -1097,7 +1157,8 @@
           "No subscription cancellation",
           "Investment focus",
           "Limited budgeting tools"
-        ]
+        ],
+        "best_for": "Net worth tracking"
       },
       {
         "name": "Goodbudget",
@@ -1114,7 +1175,8 @@
           "10 envelope limit",
           "No bank connection",
           "Basic reporting"
-        ]
+        ],
+        "best_for": "Envelope budgeting"
       }
     ]
   },
@@ -1138,7 +1200,8 @@
           "Student limit on free",
           "Some features paid",
           "Ads on free"
-        ]
+        ],
+        "best_for": "Student-paced quizzes"
       },
       {
         "name": "Blooket",
@@ -1155,7 +1218,8 @@
           "Student limits",
           "Some modes paid",
           "Can be distracting"
-        ]
+        ],
+        "best_for": "Gamified learning"
       },
       {
         "name": "Gimkit",
@@ -1172,7 +1236,8 @@
           "3 free kits limit",
           "Some features paid",
           "Complex for young students"
-        ]
+        ],
+        "best_for": "Strategy-based games"
       }
     ]
   },
@@ -1196,7 +1261,8 @@
           "Ads on free tier",
           "Course features paid",
           "Overwhelming choices"
-        ]
+        ],
+        "best_for": "Huge free library"
       },
       {
         "name": "Healthy Minds Program",
@@ -1213,7 +1279,8 @@
           "Smaller library",
           "Less variety",
           "No celebrity teachers"
-        ]
+        ],
+        "best_for": "Science-based method"
       },
       {
         "name": "Smiling Mind",
@@ -1230,7 +1297,8 @@
           "Limited library",
           "Australian focus",
           "Basic interface"
-        ]
+        ],
+        "best_for": "Age-specific programs"
       }
     ]
   },
@@ -1254,7 +1322,8 @@
           "10 post limit per channel",
           "3 channels max",
           "No team features"
-        ]
+        ],
+        "best_for": "Simple scheduling"
       },
       {
         "name": "Later Free",
@@ -1271,7 +1340,8 @@
           "1 social set free",
           "30 posts per platform",
           "Limited analytics"
-        ]
+        ],
+        "best_for": "Visual content planning"
       },
       {
         "name": "Postiz",
@@ -1288,7 +1358,8 @@
           "Self-hosting required",
           "Setup complexity",
           "No managed hosting"
-        ]
+        ],
+        "best_for": "Self-hosted unlimited"
       }
     ]
   },
@@ -1312,7 +1383,8 @@
           "No built-in sync (paid)",
           "Learning curve",
           "Not for casual users"
-        ]
+        ],
+        "best_for": "Privacy-first linking notes"
       },
       {
         "name": "Joplin",
@@ -1329,7 +1401,8 @@
           "Dated interface",
           "Smaller community",
           "Limited plugins"
-        ]
+        ],
+        "best_for": "Encrypted cross-device"
       },
       {
         "name": "Apple Notes",
@@ -1346,7 +1419,8 @@
           "Apple only",
           "Limited export",
           "No Markdown"
-        ]
+        ],
+        "best_for": "Built-in simple option"
       }
     ]
   },
@@ -1370,7 +1444,8 @@
           "Self-hosting for privacy",
           "Smaller community",
           "Setup complexity"
-        ]
+        ],
+        "best_for": "Privacy-first remote access"
       },
       {
         "name": "Chrome Remote Desktop",
@@ -1387,7 +1462,8 @@
           "Chrome browser required",
           "Limited features",
           "No file transfer"
-        ]
+        ],
+        "best_for": "Quick remote help"
       },
       {
         "name": "AnyDesk",
@@ -1404,7 +1480,8 @@
           "Personal use only",
           "Commercial use paid",
           "Session limits"
-        ]
+        ],
+        "best_for": "Fast personal use"
       }
     ]
   },
@@ -1428,7 +1505,8 @@
           "Android only",
           "No official support",
           "Not on Play Store"
-        ]
+        ],
+        "best_for": "Ad-free on Android"
       },
       {
         "name": "Invidious",
@@ -1445,7 +1523,8 @@
           "Instance reliability varies",
           "Some instances slow",
           "No account features"
-        ]
+        ],
+        "best_for": "Privacy browser viewing"
       },
       {
         "name": "FreeTube",
@@ -1462,7 +1541,8 @@
           "Desktop only",
           "No commenting",
           "Updates manual"
-        ]
+        ],
+        "best_for": "Desktop ad-free"
       }
     ]
   },
@@ -1486,7 +1566,8 @@
           "Voice quality lower",
           "Setup technical",
           "No voice cloning"
-        ]
+        ],
+        "best_for": "Local neural TTS"
       },
       {
         "name": "Bark",
@@ -1503,7 +1584,8 @@
           "Slow generation",
           "Requires GPU",
           "Inconsistent quality"
-        ]
+        ],
+        "best_for": "Expressive audio generation"
       },
       {
         "name": "Coqui TTS",
@@ -1520,7 +1602,8 @@
           "Technical setup",
           "GPU recommended",
           "Quality varies"
-        ]
+        ],
+        "best_for": "Voice cloning"
       }
     ]
   },
@@ -1544,7 +1627,8 @@
           "Barcode scanner paid",
           "Limited free features",
           "Smaller food database"
-        ]
+        ],
+        "best_for": "Precise micronutrient data"
       },
       {
         "name": "FatSecret",
@@ -1561,7 +1645,8 @@
           "Dated interface",
           "Ads on free",
           "Limited features"
-        ]
+        ],
+        "best_for": "Free calorie tracking"
       },
       {
         "name": "Open Food Facts",
@@ -1578,7 +1663,8 @@
           "Not a full tracker",
           "Database gaps",
           "No macro goals"
-        ]
+        ],
+        "best_for": "Open food database"
       }
     ]
   },
@@ -1602,7 +1688,8 @@
           "Not specialized",
           "Fewer material presets",
           "Different workflow"
-        ]
+        ],
+        "best_for": "Full 3D pipeline"
       },
       {
         "name": "ArmorPaint",
@@ -1619,7 +1706,8 @@
           "Small community",
           "Fewer features",
           "Learning curve"
-        ]
+        ],
+        "best_for": "Purpose-built texturing"
       },
       {
         "name": "Material Maker",
@@ -1636,7 +1724,8 @@
           "Not for painting",
           "Technical",
           "Small community"
-        ]
+        ],
+        "best_for": "Procedural materials"
       }
     ]
   },
@@ -1660,7 +1749,8 @@
           "Limited info",
           "No maintenance records",
           "No accident details"
-        ]
+        ],
+        "best_for": "Theft/salage check"
       },
       {
         "name": "VehicleHistory.com",
@@ -1677,7 +1767,8 @@
           "Less detailed than Carfax",
           "Data gaps",
           "Upsell to paid"
-        ]
+        ],
+        "best_for": "Vehicle specs and recalls"
       },
       {
         "name": "iSeeCars VIN Report",
@@ -1694,7 +1785,8 @@
           "Not full history",
           "Limited details",
           "Ads heavy"
-        ]
+        ],
+        "best_for": "Price analysis"
       }
     ]
   }
