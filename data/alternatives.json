@@ -6102,5 +6102,773 @@
         "has_affiliate": false
       }
     ]
+  },
+  {
+    "paid_tool": "Trello Premium",
+    "paid_category": "Productivity",
+    "paid_price": "$10/mo",
+    "alternatives": [
+      {
+        "name": "Kanboard",
+        "url": "https://kanboard.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted kanban",
+        "description": "Open-source kanban board. Self-host for unlimited everything.",
+        "pros": [
+          "Unlimited boards",
+          "Self-hosted",
+          "Lightweight"
+        ],
+        "cons": [
+          "Dated UI",
+          "No mobile app",
+          "Setup required"
+        ]
+      },
+      {
+        "name": "Focalboard",
+        "url": "https://focalboard.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Notion-like boards",
+        "description": "Open-source Trello alternative from Mattermost. Desktop and self-hosted.",
+        "pros": [
+          "Familiar board interface",
+          "Self-hostable",
+          "Desktop app"
+        ],
+        "cons": [
+          "Small community",
+          "Limited integrations",
+          "Slower development"
+        ]
+      },
+      {
+        "name": "Plane Free",
+        "url": "https://plane.so",
+        "free_tier": "Free tier",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Issue tracking + boards",
+        "description": "Open-source project management with kanban, issues, and cycles.",
+        "pros": [
+          "Modern UI",
+          "Open source",
+          "Self-hostable"
+        ],
+        "cons": [
+          "Complex setup",
+          "Newer product",
+          "Limited free tier"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Asana Premium",
+    "paid_category": "Productivity",
+    "paid_price": "$10.99/mo",
+    "alternatives": [
+      {
+        "name": "Plane",
+        "url": "https://plane.so",
+        "free_tier": "Free tier",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Modern PM",
+        "description": "Open-source project management with Linear-like interface.",
+        "pros": [
+          "Modern and fast",
+          "Open source",
+          "Self-hostable"
+        ],
+        "cons": [
+          "Newer product",
+          "Setup for self-host",
+          "Limited integrations"
+        ]
+      },
+      {
+        "name": "Notion Free",
+        "url": "https://notion.com",
+        "free_tier": "Unlimited for individuals",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Flexible workspace",
+        "description": "Build your own project management system with databases, boards, and docs.",
+        "pros": [
+          "Very flexible",
+          "Unlimited individual",
+          "Great templates"
+        ],
+        "cons": [
+          "Can be complex",
+          "No Gantt on free",
+          "Learning curve"
+        ]
+      },
+      {
+        "name": "Taiga",
+        "url": "https://taiga.io",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Agile teams",
+        "description": "Open-source agile project management with sprints, kanban, and issues.",
+        "pros": [
+          "Agile-focused",
+          "Self-hostable",
+          "Free unlimited"
+        ],
+        "cons": [
+          "Dated UI",
+          "Small community",
+          "Setup needed"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Notion Plus",
+    "paid_category": "Productivity",
+    "paid_price": "$8/mo",
+    "alternatives": [
+      {
+        "name": "Obsidian Free",
+        "url": "https://obsidian.md",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Linked notes",
+        "description": "Local-first knowledge base with wiki-style linking. Free for personal use.",
+        "pros": [
+          "Local files",
+          "Powerful linking",
+          "Huge plugin ecosystem"
+        ],
+        "cons": [
+          "No built-in sync",
+          "Learning curve",
+          "Not for casual use"
+        ]
+      },
+      {
+        "name": "AppFlowy",
+        "url": "https://appflowy.io",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Offline workspace",
+        "description": "Open-source Notion alternative. Full workspace offline.",
+        "pros": [
+          "Offline-first",
+          "Open source",
+          "Data ownership"
+        ],
+        "cons": [
+          "Less polished",
+          "Fewer templates",
+          "Desktop only"
+        ]
+      },
+      {
+        "name": "Logseq",
+        "url": "https://logseq.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Outliner notes",
+        "description": "Privacy-first knowledge base with outliner interface and graph view.",
+        "pros": [
+          "Local-first",
+          "Outliner mode",
+          "Graph view"
+        ],
+        "cons": [
+          "Outliner only",
+          "Learning curve",
+          "Smaller community"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Webex Pro",
+    "paid_category": "Communication",
+    "paid_price": "$14.50/mo",
+    "alternatives": [
+      {
+        "name": "Jitsi Meet",
+        "url": "https://jitsi.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Free unlimited calls",
+        "description": "Open-source video conferencing with no time limits or participant caps.",
+        "pros": [
+          "No limits",
+          "No account needed",
+          "Self-hostable"
+        ],
+        "cons": [
+          "Self-hosting for best quality",
+          "Limited features",
+          "No webinar mode"
+        ]
+      },
+      {
+        "name": "Google Meet",
+        "url": "https://meet.google.com",
+        "free_tier": "60 min free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Integration with Google",
+        "description": "60-minute meetings with up to 100 participants for free.",
+        "pros": [
+          "Works in browser",
+          "Google integration",
+          "100 participants"
+        ],
+        "cons": [
+          "60 min limit",
+          "Google account needed",
+          "Limited controls"
+        ]
+      },
+      {
+        "name": "BigBlueButton",
+        "url": "https://bigbluebutton.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Education",
+        "description": "Open-source web conferencing designed for education and online learning.",
+        "pros": [
+          "Education-focused",
+          "Open source",
+          "Whiteboard included"
+        ],
+        "cons": [
+          "Setup complexity",
+          "Resource heavy",
+          "Not for general use"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "HubSpot Pro",
+    "paid_category": "CRM",
+    "paid_price": "$500/mo",
+    "alternatives": [
+      {
+        "name": "Bitrix24 Free",
+        "url": "https://bitrix24.com",
+        "free_tier": "12 users free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "All-in-one business",
+        "description": "CRM, project management, and communication in one. 12 users free.",
+        "pros": [
+          "12 users free",
+          "All-in-one",
+          "Good CRM features"
+        ],
+        "cons": [
+          "Complex interface",
+          "Storage limited",
+          "Pro expensive"
+        ]
+      },
+      {
+        "name": "Odoo CRM",
+        "url": "https://odoo.com",
+        "free_tier": "Unlimited users",
+        "license": "Open Source",
+        "has_affiliate": true,
+        "best_for": "Full ERP",
+        "description": "Open-source CRM with unlimited users. Integrates with full Odoo suite.",
+        "pros": [
+          "Unlimited users",
+          "Full business suite",
+          "Open source"
+        ],
+        "cons": [
+          "Setup complexity",
+          "Learning curve",
+          "Cloud limited"
+        ]
+      },
+      {
+        "name": "SuiteCRM",
+        "url": "https://suitecrm.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Enterprise CRM",
+        "description": "Open-source enterprise CRM with workflows, reports, and automation.",
+        "pros": [
+          "Enterprise features",
+          "No limits",
+          "Open source"
+        ],
+        "cons": [
+          "Dated UI",
+          "PHP stack",
+          "Setup needed"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Freshbooks",
+    "paid_category": "Accounting",
+    "paid_price": "$17/mo",
+    "alternatives": [
+      {
+        "name": "Wave",
+        "url": "https://waveapps.com",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Small business",
+        "description": "Free accounting and invoicing for small businesses.",
+        "pros": [
+          "Free accounting",
+          "Professional invoices",
+          "Bank sync"
+        ],
+        "cons": [
+          "Payment fees",
+          "No inventory",
+          "Limited payroll"
+        ]
+      },
+      {
+        "name": "Manager.io",
+        "url": "https://manager.io",
+        "free_tier": "Desktop free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Offline accounting",
+        "description": "Full accounting software, desktop version completely free.",
+        "pros": [
+          "No feature limits",
+          "Offline use",
+          "Full accounting"
+        ],
+        "cons": [
+          "Cloud paid",
+          "Dated UI",
+          "Learning curve"
+        ]
+      },
+      {
+        "name": "GnuCash",
+        "url": "https://gnucash.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Double-entry bookkeeping",
+        "description": "Mature double-entry accounting for personal and business use.",
+        "pros": [
+          "Full double-entry",
+          "Mature and stable",
+          "Reports"
+        ],
+        "cons": [
+          "Dated interface",
+          "No invoicing",
+          "Not cloud"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "CleanMyMac X",
+    "paid_category": "Utilities",
+    "paid_price": "$39.95/yr",
+    "alternatives": [
+      {
+        "name": "OnyX",
+        "url": "https://titanium-software.fr/en/onyx.html",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Mac maintenance",
+        "description": "Free Mac maintenance and optimization tool. Deep system access.",
+        "pros": [
+          "Fully free",
+          "Deep system tools",
+          "No ads"
+        ],
+        "cons": [
+          "Dated interface",
+          "Can break things if misused",
+          "Mac only"
+        ]
+      },
+      {
+        "name": "AppCleaner",
+        "url": "https://freemacsoft.net/appcleaner",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "App uninstallation",
+        "description": "Free app uninstaller that removes all related files.",
+        "pros": [
+          "Simple and effective",
+          "Removes all files",
+          "Free"
+        ],
+        "cons": [
+          "Mac only",
+          "Single purpose",
+          "No optimization"
+        ]
+      },
+      {
+        "name": "BleachBit",
+        "url": "https://bleachbit.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "System cleaning",
+        "description": "Open-source system cleaner. Free space and protect privacy.",
+        "pros": [
+          "Open source",
+          "Cross-platform",
+          "Shred files"
+        ],
+        "cons": [
+          "Less Mac-focused",
+          "Can be dangerous",
+          "Basic UI"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Audition",
+    "paid_category": "Audio Editing",
+    "paid_price": "$22.99/mo",
+    "alternatives": [
+      {
+        "name": "Audacity",
+        "url": "https://audacityteam.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Most users",
+        "description": "The standard free audio editor. Recording, editing, effects, analysis.",
+        "pros": [
+          "Industry standard free",
+          "Cross-platform",
+          "Huge community"
+        ],
+        "cons": [
+          "Dated UI",
+          "Destructive editing",
+          "No real-time effects"
+        ]
+      },
+      {
+        "name": "Ocenaudio",
+        "url": "https://ocenaudio.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Quick editing",
+        "description": "Fast, easy audio editor with real-time effects preview.",
+        "pros": [
+          "Fast and simple",
+          "Real-time effects",
+          "Cross-platform"
+        ],
+        "cons": [
+          "Limited features",
+          "No multi-track",
+          "Basic interface"
+        ]
+      },
+      {
+        "name": "Ardour",
+        "url": "https://ardour.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Multi-track",
+        "description": "Professional multi-track audio recording and editing.",
+        "pros": [
+          "Multi-track pro",
+          "Open source",
+          "MIDI support"
+        ],
+        "cons": [
+          "Complex",
+          "Dated UI",
+          "Learning curve"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Mangools",
+    "paid_category": "SEO Tools",
+    "paid_price": "$29.90/mo",
+    "alternatives": [
+      {
+        "name": "Ubersuggest",
+        "url": "https://neilpatel.com/ubersuggest",
+        "free_tier": "3 searches/day",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Keyword research",
+        "description": "Free keyword research with competition data.",
+        "pros": [
+          "Good keyword data",
+          "Site audits",
+          "Free daily searches"
+        ],
+        "cons": [
+          "3/day limit",
+          "Limited data",
+          "Upsell"
+        ]
+      },
+      {
+        "name": "Google Keyword Planner",
+        "url": "https://ads.google.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Google search volume",
+        "description": "Google's own keyword research tool. Free with Google Ads account.",
+        "pros": [
+          "Real Google data",
+          "Search volume",
+          "Competition data"
+        ],
+        "cons": [
+          "Needs Google Ads account",
+          "Broad ranges",
+          "PPC focused"
+        ]
+      },
+      {
+        "name": "SerpStat Free",
+        "url": "https://serpstat.com",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "All-in-one SEO",
+        "description": "SEO platform with keyword research, competitor analysis, and site audit.",
+        "pros": [
+          "All-in-one",
+          "Good data",
+          "Free tier"
+        ],
+        "cons": [
+          "Very limited free",
+          "Upsell",
+          "Slower than paid tools"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Squarespace",
+    "paid_category": "Website Builder",
+    "paid_price": "$16/mo",
+    "alternatives": [
+      {
+        "name": "Carrd",
+        "url": "https://carrd.co",
+        "free_tier": "3 sites free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Simple sites",
+        "description": "3 free one-page sites. Pro is $19/year.",
+        "pros": [
+          "3 free sites",
+          "Cheap pro",
+          "Easy"
+        ],
+        "cons": [
+          "One-page only",
+          "No CMS",
+          "Limited templates"
+        ]
+      },
+      {
+        "name": "Framer Free",
+        "url": "https://framer.com",
+        "free_tier": "1 site free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Design-focused",
+        "description": "Beautiful sites with Figma-like design interface.",
+        "pros": [
+          "Beautiful designs",
+          "Animations",
+          "No code"
+        ],
+        "cons": [
+          "1 free site",
+          "Domain paid",
+          "Limited CMS"
+        ]
+      },
+      {
+        "name": "WordPress.com Free",
+        "url": "https://wordpress.com",
+        "free_tier": "Free plan",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Blogging",
+        "description": "Free WordPress site with blogging and basic features.",
+        "pros": [
+          "Free forever",
+          "Blogging focused",
+          "Huge ecosystem"
+        ],
+        "cons": [
+          "WordPress branding",
+          "Limited themes",
+          "No plugins free"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Wix Premium",
+    "paid_category": "Website Builder",
+    "paid_price": "$16/mo",
+    "alternatives": [
+      {
+        "name": "Carrd",
+        "url": "https://carrd.co",
+        "free_tier": "3 sites free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Simple sites",
+        "description": "3 free sites, pro $19/year. Much simpler than Wix.",
+        "pros": [
+          "3 free sites",
+          "Cheap",
+          "Easy"
+        ],
+        "cons": [
+          "One-page",
+          "No CMS",
+          "Limited"
+        ]
+      },
+      {
+        "name": "Framer Free",
+        "url": "https://framer.com",
+        "free_tier": "1 site free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Designed sites",
+        "description": "Figma-like site builder. 1 free site with animations.",
+        "pros": [
+          "Beautiful",
+          "No code",
+          "Animations"
+        ],
+        "cons": [
+          "1 free site",
+          "Domain paid",
+          "Limited CMS"
+        ]
+      },
+      {
+        "name": "WordPress.com Free",
+        "url": "https://wordpress.com",
+        "free_tier": "Free plan",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Content sites",
+        "description": "Free WordPress with blogging and basic features.",
+        "pros": [
+          "Free",
+          "Blogging",
+          "Ecosystem"
+        ],
+        "cons": [
+          "Branding",
+          "Limited themes",
+          "No plugins"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Kajabi",
+    "paid_category": "Online Courses",
+    "paid_price": "$149/mo",
+    "alternatives": [
+      {
+        "name": "Gumroad Free",
+        "url": "https://gumroad.com",
+        "free_tier": "Free to start",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Selling courses",
+        "description": "Sell courses and digital products. No monthly fee.",
+        "pros": [
+          "No monthly",
+          "Sell anything",
+          "Audience built-in"
+        ],
+        "cons": [
+          "10% per sale",
+          "Limited features",
+          "No membership"
+        ]
+      },
+      {
+        "name": "Mighty Networks Free",
+        "url": "https://mightynetworks.com",
+        "free_tier": "14-day trial",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Community + courses",
+        "description": "Build a community with courses. Free trial, then $41/mo.",
+        "pros": [
+          "Community focus",
+          "Courses included",
+          "Good for memberships"
+        ],
+        "cons": [
+          "$41/mo after trial",
+          "Not truly free",
+          "Limited trial"
+        ]
+      },
+      {
+        "name": "Oiris Free",
+        "url": "https://oriris.com",
+        "free_tier": "Free tier",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Simple courses",
+        "description": "Simple course platform with free tier for small creators.",
+        "pros": [
+          "Simple",
+          "Free tier",
+          "Easy setup"
+        ],
+        "cons": [
+          "Very limited",
+          "Newer",
+          "Unknown"
+        ]
+      }
+    ]
   }
 ]
