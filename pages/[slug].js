@@ -14,22 +14,20 @@ export async function getStaticProps({ params }) {
     d => d.paid_tool.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') === params.slug
   );
   if (!item) return { notFound: true };
-
   const related = data
     .filter(d => d.paid_category === item.paid_category && d.paid_tool !== item.paid_tool)
     .slice(0, 4);
-
   return { props: { item, related } };
 }
 
-function tagClass(license) {
-  if (license === 'Open Source') return 'tag os';
-  if (license === 'Freemium') return 'tag freemium';
-  return 'tag free';
+function tgCls(l) {
+  if (l === 'Open Source') return 'tg os';
+  return 'tg';
 }
 
 export default function ToolPage({ item, related }) {
   const slug = item.paid_tool.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  const hasAff = item.alternatives.some(a => a.has_affiliate);
 
   return (
     <>
@@ -46,100 +44,63 @@ export default function ToolPage({ item, related }) {
             "@context": "https://schema.org",
             "@type": "Article",
             "headline": `Free Alternatives to ${item.paid_tool}`,
-            "about": {
-              "@type": "SoftwareApplication",
-              "name": item.paid_tool,
-              "applicationCategory": item.paid_category,
-              "offers": { "@type": "Offer", "price": item.paid_price }
-            },
-            "mainEntity": {
-              "@type": "ItemList",
-              "itemListElement": item.alternatives.map((alt, i) => ({
-                "@type": "ListItem",
-                "position": i + 1,
-                "item": {
-                  "@type": "SoftwareApplication",
-                  "name": alt.name,
-                  "offers": { "@type": "Offer", "price": "0" }
-                }
-              }))
-            }
+            "about": { "@type": "SoftwareApplication", "name": item.paid_tool, "applicationCategory": item.paid_category, "offers": { "@type": "Offer", "price": item.paid_price } },
+            "mainEntity": { "@type": "ItemList", "itemListElement": item.alternatives.map((alt, i) => ({ "@type": "ListItem", "position": i + 1, "item": { "@type": "SoftwareApplication", "name": alt.name, "offers": { "@type": "Offer", "price": "0" } } })) }
           })
         }} />
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
       </Head>
 
       <nav className="nav">
-        <div className="nav-inner">
-          <Link href="/" className="nav-brand">
-            <span className="dot"></span>
-            FreeAlt
-          </Link>
-          <div className="nav-links">
-            <Link href="/">All Tools</Link>
-          </div>
+        <div className="nav-in">
+          <Link href="/" className="nav-brand">FreeAlt</Link>
+          <div className="nav-links"><Link href="/">All Tools</Link></div>
         </div>
       </nav>
 
       <div className="wrap">
-        <div className="crumb">
-          <Link href="/">Home</Link>
-          <span className="s">/</span>
-          <span>{item.paid_category}</span>
-          <span className="s">/</span>
+        <div className="cr">
+          <Link href="/">Home</Link><span className="s">/</span>
+          <span>{item.paid_category}</span><span className="s">/</span>
           <span>{item.paid_tool}</span>
         </div>
 
         <div className="tool">
-          <h1>Free Alternatives<br />to {item.paid_tool}</h1>
+          <h1>Free Alternatives to {item.paid_tool}</h1>
           <div className="tool-meta">
-            <span className="badge-price">{item.paid_tool} — {item.paid_price}</span>
-            <span className="badge-cat">{item.paid_category}</span>
+            <span className="bp">{item.paid_tool} — {item.paid_price}</span>
+            <span className="bc">{item.paid_category}</span>
           </div>
           <p className="tool-intro">
-            {item.alternatives.length} genuinely free alternatives to {item.paid_tool}. 
-            No trials, no watermarks, no credit card. Each one compared honestly.
+            {item.alternatives.length} genuinely free alternatives. No trials, no watermarks, no credit card.
           </p>
         </div>
 
         <div className="alts">
           {item.alternatives.map((alt, i) => (
             <div className="alt" key={i} id={alt.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}>
-              <div className="alt-head">
+              <div className="alt-h">
                 <div>
-                  <div className="alt-num">Option {i + 1}</div>
+                  <div className="alt-n">Option {i + 1}</div>
                   <h2>{alt.name}</h2>
-                  <div className="alt-tags">
-                    <span className={tagClass(alt.license)}>{alt.license}</span>
-                    <span className="tag free">{alt.free_tier}</span>
+                  <div className="alt-t">
+                    <span className={tgCls(alt.license)}>{alt.license}</span>
+                    <span className="tg">{alt.free_tier}</span>
+                    {alt.has_affiliate && <span className="tg">★ Partner</span>}
                   </div>
-                  {alt.best_for && (
-                    <div className="alt-best">Best for: <strong>{alt.best_for}</strong></div>
-                  )}
+                  {alt.best_for && <div className="alt-bf">Best for <strong>{alt.best_for}</strong></div>}
                 </div>
-                <a href={alt.url} target="_blank" rel="noopener noreferrer nofollow" className="visit">
-                  Visit →
-                </a>
+                <a href={alt.url} target="_blank" rel="noopener noreferrer nofollow" className="vis">Visit →</a>
               </div>
-
-              <p className="alt-desc">{alt.description}</p>
-
+              <p className="alt-d">{alt.description}</p>
               <div className="pc">
-                <div className="pc-col pros">
+                <div className="pc-c p">
                   <h4>Pros</h4>
-                  <ul>
-                    {alt.pros.map((pro, j) => (
-                      <li key={j}><span className="m">+</span> {pro}</li>
-                    ))}
-                  </ul>
+                  <ul>{alt.pros.map((p, j) => <li key={j}><span className="m">+</span> {p}</li>)}</ul>
                 </div>
-                <div className="pc-col cons">
+                <div className="pc-c c">
                   <h4>Cons</h4>
-                  <ul>
-                    {alt.cons.map((con, k) => (
-                      <li key={k}><span className="m">−</span> {con}</li>
-                    ))}
-                  </ul>
+                  <ul>{alt.cons.map((c, k) => <li key={k}><span className="m">−</span> {c}</li>)}</ul>
                 </div>
               </div>
             </div>
@@ -147,17 +108,17 @@ export default function ToolPage({ item, related }) {
         </div>
 
         {related.length > 0 && (
-          <section className="related">
-            <h3>Related Alternatives</h3>
-            <div className="rel-grid">
-              {related.map((rel, i) => {
-                const rs = rel.paid_tool.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+          <section className="rel">
+            <h3>Related</h3>
+            <div className="rel-g">
+              {related.map((r, i) => {
+                const rs = r.paid_tool.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
                 return (
                   <Link href={`/${rs}`} key={i}>
-                    <div className="rel-card">
-                      <h4>{rel.paid_tool}</h4>
-                      <span className="rp">{rel.paid_price}</span>
-                      <p className="rh">{rel.alternatives[0].name} + {rel.alternatives.length - 1} more</p>
+                    <div className="rel-c">
+                      <h4>{r.paid_tool}</h4>
+                      <span className="rp">{r.paid_price}</span>
+                      <p className="rh">{r.alternatives[0].name} +{r.alternatives.length - 1}</p>
                     </div>
                   </Link>
                 );
@@ -166,12 +127,12 @@ export default function ToolPage({ item, related }) {
           </section>
         )}
 
-        <Link href="/" className="back">← All tools</Link>
+        <Link href="/" className="bk">← All tools</Link>
       </div>
 
-      <footer className="footer">
+      <footer className="ftr">
         <div className="wrap">
-          <p>FreeAlt — Every tool has a genuinely free alternative. No tricks, no trials.</p>
+          <p>FreeAlt — Every tool has a genuinely free alternative.</p>
           <p><a href="https://github.com/ethansaiagent-dot/freealt">Open source</a> · Updated weekly</p>
         </div>
       </footer>

@@ -20,7 +20,8 @@
           "UI feels dated",
           "No CMYK by default"
         ],
-        "best_for": "Photo editing on a budget"
+        "best_for": "Photo editing on a budget",
+        "has_affiliate": false
       },
       {
         "name": "Photopea",
@@ -38,7 +39,8 @@
           "Requires internet",
           "Slower on large files"
         ],
-        "best_for": "Browser-based quick edits"
+        "best_for": "Browser-based quick edits",
+        "has_affiliate": false
       },
       {
         "name": "Krita",
@@ -56,7 +58,8 @@
           "Fewer photo filters",
           "Not a PSD replacement"
         ],
-        "best_for": "Digital painting"
+        "best_for": "Digital painting",
+        "has_affiliate": false
       }
     ]
   },
@@ -81,7 +84,8 @@
           "Limited offline mode",
           "Fewer formatting options"
         ],
-        "best_for": "Collaborative writing"
+        "best_for": "Collaborative writing",
+        "has_affiliate": false
       },
       {
         "name": "LibreOffice Writer",
@@ -99,7 +103,8 @@
           "No cloud sync",
           "Collaboration limited"
         ],
-        "best_for": "Offline document editing"
+        "best_for": "Offline document editing",
+        "has_affiliate": false
       },
       {
         "name": "OnlyOffice",
@@ -117,7 +122,8 @@
           "Smaller community",
           "Cloud version limited"
         ],
-        "best_for": "Microsoft Office compatibility"
+        "best_for": "Microsoft Office compatibility",
+        "has_affiliate": false
       }
     ]
   },
@@ -142,7 +148,8 @@
           "UI different from Illustrator",
           "No cloud features"
         ],
-        "best_for": "Professional vector work"
+        "best_for": "Professional vector work",
+        "has_affiliate": false
       },
       {
         "name": "Figma",
@@ -160,7 +167,8 @@
           "Not for print design",
           "Requires internet"
         ],
-        "best_for": "UI/UX design collaboration"
+        "best_for": "UI/UX design collaboration",
+        "has_affiliate": true
       },
       {
         "name": "Vectr",
@@ -178,7 +186,8 @@
           "Not for complex work",
           "Small community"
         ],
-        "best_for": "Quick vector graphics"
+        "best_for": "Quick vector graphics",
+        "has_affiliate": false
       }
     ]
   },
@@ -203,7 +212,8 @@
           "No inventory tracking",
           "Limited payroll"
         ],
-        "best_for": "Small business accounting"
+        "best_for": "Small business accounting",
+        "has_affiliate": false
       },
       {
         "name": "Manager.io",
@@ -221,7 +231,8 @@
           "Dated interface",
           "Learning curve"
         ],
-        "best_for": "Offline bookkeeping"
+        "best_for": "Offline bookkeeping",
+        "has_affiliate": false
       },
       {
         "name": "GnuCash",
@@ -239,7 +250,8 @@
           "No invoicing features",
           "Not cloud-based"
         ],
-        "best_for": "Double-entry accounting"
+        "best_for": "Double-entry accounting",
+        "has_affiliate": false
       }
     ]
   },
@@ -264,7 +276,8 @@
           "Dated UI",
           "iOS app paid"
         ],
-        "best_for": "Serious memorization"
+        "best_for": "Serious memorization",
+        "has_affiliate": false
       },
       {
         "name": "Brainscape",
@@ -282,7 +295,8 @@
           "Fewer shared decks",
           "Limited free mode"
         ],
-        "best_for": "Visual learners"
+        "best_for": "Visual learners",
+        "has_affiliate": false
       },
       {
         "name": "StudyBlue",
@@ -300,7 +314,8 @@
           "Limited free features",
           "Ads heavy"
         ],
-        "best_for": "Gamified studying"
+        "best_for": "Gamified studying",
+        "has_affiliate": false
       }
     ]
   },
@@ -325,7 +340,8 @@
           "No payment collection",
           "Limited templates"
         ],
-        "best_for": "Occasional document signing"
+        "best_for": "Occasional document signing",
+        "has_affiliate": true
       },
       {
         "name": "HelloSign (Dropbox Sign)",
@@ -343,7 +359,8 @@
           "No templates on free",
           "Storage limited"
         ],
-        "best_for": "Simple e-signatures"
+        "best_for": "Simple e-signatures",
+        "has_affiliate": false
       },
       {
         "name": "DocuSeal",
@@ -361,7 +378,8 @@
           "Smaller community",
           "Setup complexity"
         ],
-        "best_for": "Self-hosted signing"
+        "best_for": "Self-hosted signing",
+        "has_affiliate": false
       }
     ]
   },
@@ -386,7 +404,8 @@
           "Basic interface",
           "No audit defense free"
         ],
-        "best_for": "Simple tax returns"
+        "best_for": "Simple tax returns",
+        "has_affiliate": false
       },
       {
         "name": "Cash App Taxes",
@@ -404,7 +423,8 @@
           "Must have Cash App account",
           "Limited support"
         ],
-        "best_for": "Completely free filing"
+        "best_for": "Completely free filing",
+        "has_affiliate": false
       },
       {
         "name": "IRS Free File",
@@ -422,7 +442,8 @@
           "State may cost extra",
           "Limited brands"
         ],
-        "best_for": "Low-income filing"
+        "best_for": "Low-income filing",
+        "has_affiliate": false
       }
     ]
   },
@@ -447,7 +468,8 @@
           "Basic editing",
           "No OCR on free"
         ],
-        "best_for": "All-in-one PDF toolkit"
+        "best_for": "All-in-one PDF toolkit",
+        "has_affiliate": false
       },
       {
         "name": "Sejda PDF",
@@ -465,7 +487,8 @@
           "50MB file limit",
           "200 page limit"
         ],
-        "best_for": "In-browser PDF editing"
+        "best_for": "In-browser PDF editing",
+        "has_affiliate": false
       },
       {
         "name": "LibreOffice Draw",
@@ -483,7 +506,8 @@
           "Clunky for complex PDFs",
           "Formatting issues"
         ],
-        "best_for": "Basic PDF text edits"
+        "best_for": "Basic PDF text edits",
+        "has_affiliate": false
       }
     ]
   },
@@ -508,7 +532,8 @@
           "Darker interface",
           "Slower than Lightroom"
         ],
-        "best_for": "Professional RAW editing"
+        "best_for": "Professional RAW editing",
+        "has_affiliate": false
       },
       {
         "name": "RawTherapee",
@@ -526,7 +551,8 @@
           "Complex interface",
           "No cloud sync"
         ],
-        "best_for": "Detailed color control"
+        "best_for": "Detailed color control",
+        "has_affiliate": false
       },
       {
         "name": "LightZone",
@@ -544,7 +570,8 @@
           "Limited features",
           "Dated UI"
         ],
-        "best_for": "Zone system enthusiasts"
+        "best_for": "Zone system enthusiasts",
+        "has_affiliate": false
       }
     ]
   },
@@ -569,7 +596,8 @@
           "Sync can be slow",
           "Limited export options"
         ],
-        "best_for": "Cross-platform notes"
+        "best_for": "Cross-platform notes",
+        "has_affiliate": false
       },
       {
         "name": "GoodNotes (Free Tier)",
@@ -587,7 +615,8 @@
           "Some features locked",
           "iOS/Mac only"
         ],
-        "best_for": "iPad handwriting"
+        "best_for": "iPad handwriting",
+        "has_affiliate": false
       },
       {
         "name": "Apple Notes",
@@ -605,7 +634,8 @@
           "Limited organization",
           "No cross-platform"
         ],
-        "best_for": "Simple built-in option"
+        "best_for": "Simple built-in option",
+        "has_affiliate": false
       }
     ]
   },
@@ -630,7 +660,8 @@
           "No background play (mobile)",
           "Limited skips"
         ],
-        "best_for": "Discovery and variety"
+        "best_for": "Discovery and variety",
+        "has_affiliate": false
       },
       {
         "name": "Pandora Free",
@@ -648,7 +679,8 @@
           "Limited skips",
           "Ads frequent"
         ],
-        "best_for": "Radio-style listening"
+        "best_for": "Radio-style listening",
+        "has_affiliate": false
       },
       {
         "name": "SoundCloud Free",
@@ -666,7 +698,8 @@
           "Some tracks premium only",
           "Mainstream gaps"
         ],
-        "best_for": "Independent music"
+        "best_for": "Independent music",
+        "has_affiliate": false
       }
     ]
   },
@@ -691,7 +724,8 @@
           "No tone detection",
           "Less polished UI"
         ],
-        "best_for": "Multi-language checking"
+        "best_for": "Multi-language checking",
+        "has_affiliate": false
       },
       {
         "name": "ProWritingAid Free",
@@ -709,7 +743,8 @@
           "Fewer suggestions free",
           "Upsell heavy"
         ],
-        "best_for": "Detailed writing analysis"
+        "best_for": "Detailed writing analysis",
+        "has_affiliate": true
       },
       {
         "name": "Hemingway Editor",
@@ -727,7 +762,8 @@
           "Desktop app paid",
           "No suggestions"
         ],
-        "best_for": "Readability focus"
+        "best_for": "Readability focus",
+        "has_affiliate": false
       }
     ]
   },
@@ -753,7 +789,8 @@
           "Slower than cloud APIs",
           "Setup requires some technical knowledge"
         ],
-        "best_for": "Complete privacy"
+        "best_for": "Complete privacy",
+        "has_affiliate": false
       },
       {
         "name": "Groq (free tier)",
@@ -772,7 +809,8 @@
           "No image/file analysis",
           "Developer-focused, not consumer-friendly"
         ],
-        "best_for": "Speed (fastest inference)"
+        "best_for": "Speed (fastest inference)",
+        "has_affiliate": false
       },
       {
         "name": "HuggingChat",
@@ -791,7 +829,8 @@
           "No image generation",
           "Slower than paid services"
         ],
-        "best_for": "Multiple open models"
+        "best_for": "Multiple open models",
+        "has_affiliate": false
       },
       {
         "name": "LocalPipe / Jan",
@@ -810,7 +849,8 @@
           "No web search",
           "No multimodal features"
         ],
-        "best_for": "Offline desktop use"
+        "best_for": "Offline desktop use",
+        "has_affiliate": false
       }
     ]
   },
@@ -835,7 +875,8 @@
           "Resource heavy",
           "Some features in Studio only"
         ],
-        "best_for": "Professional grading"
+        "best_for": "Professional grading",
+        "has_affiliate": false
       },
       {
         "name": "CapCut",
@@ -853,7 +894,8 @@
           "Limited advanced tools",
           "Cloud features paid"
         ],
-        "best_for": "Social media content"
+        "best_for": "Social media content",
+        "has_affiliate": false
       },
       {
         "name": "Shotcut",
@@ -871,7 +913,8 @@
           "Limited effects",
           "No multicam editing"
         ],
-        "best_for": "Basic editing"
+        "best_for": "Basic editing",
+        "has_affiliate": false
       }
     ]
   },
@@ -896,7 +939,8 @@
           "Different from AE workflow",
           "Learning curve"
         ],
-        "best_for": "Professional compositing"
+        "best_for": "Professional compositing",
+        "has_affiliate": false
       },
       {
         "name": "Blender",
@@ -914,7 +958,8 @@
           "Steep learning curve",
           "Different workflow"
         ],
-        "best_for": "3D + motion graphics"
+        "best_for": "3D + motion graphics",
+        "has_affiliate": false
       },
       {
         "name": "Natron",
@@ -932,7 +977,8 @@
           "Limited development",
           "Buggy at times"
         ],
-        "best_for": "Node-based compositing"
+        "best_for": "Node-based compositing",
+        "has_affiliate": false
       }
     ]
   },
@@ -957,7 +1003,8 @@
           "Learning curve",
           "No IDML import"
         ],
-        "best_for": "Professional print layout"
+        "best_for": "Professional print layout",
+        "has_affiliate": false
       },
       {
         "name": "Canva Free",
@@ -975,7 +1022,8 @@
           "Not for print production",
           "Watermark on some elements"
         ],
-        "best_for": "Quick social designs"
+        "best_for": "Quick social designs",
+        "has_affiliate": true
       },
       {
         "name": "Affinity Publisher",
@@ -993,7 +1041,8 @@
           "No subscription model",
           "Smaller plugin ecosystem"
         ],
-        "best_for": "InDesign file compatibility"
+        "best_for": "InDesign file compatibility",
+        "has_affiliate": true
       }
     ]
   },
@@ -1018,7 +1067,8 @@
           "Dated UI",
           "Smaller community"
         ],
-        "best_for": "Full DAW without cost"
+        "best_for": "Full DAW without cost",
+        "has_affiliate": false
       },
       {
         "name": "Cakewalk",
@@ -1036,7 +1086,8 @@
           "Complex setup",
           "No Mac version"
         ],
-        "best_for": "Windows music production"
+        "best_for": "Windows music production",
+        "has_affiliate": false
       },
       {
         "name": "GarageBand",
@@ -1054,7 +1105,8 @@
           "Limited compared to pro DAWs",
           "No third-party plugin support"
         ],
-        "best_for": "Apple ecosystem users"
+        "best_for": "Apple ecosystem users",
+        "has_affiliate": false
       }
     ]
   },
@@ -1079,7 +1131,8 @@
           "Limited free templates",
           "Pro needed for forms"
         ],
-        "best_for": "Full page customization"
+        "best_for": "Full page customization",
+        "has_affiliate": true
       },
       {
         "name": "Bio.link",
@@ -1097,7 +1150,8 @@
           "Fewer integrations",
           "Pro features gated"
         ],
-        "best_for": "Simple link pages"
+        "best_for": "Simple link pages",
+        "has_affiliate": false
       },
       {
         "name": "Taplink",
@@ -1115,7 +1169,8 @@
           "Ads on free",
           "Pro needed for most features"
         ],
-        "best_for": "Commerce-enabled bio"
+        "best_for": "Commerce-enabled bio",
+        "has_affiliate": false
       }
     ]
   },
@@ -1140,7 +1195,8 @@
           "$14.99/mo after trial",
           "Learning curve"
         ],
-        "best_for": "Serious budgeters"
+        "best_for": "Serious budgeters",
+        "has_affiliate": false
       },
       {
         "name": "Empower",
@@ -1158,7 +1214,8 @@
           "Investment focus",
           "Limited budgeting tools"
         ],
-        "best_for": "Net worth tracking"
+        "best_for": "Net worth tracking",
+        "has_affiliate": false
       },
       {
         "name": "Goodbudget",
@@ -1176,7 +1233,8 @@
           "No bank connection",
           "Basic reporting"
         ],
-        "best_for": "Envelope budgeting"
+        "best_for": "Envelope budgeting",
+        "has_affiliate": false
       }
     ]
   },
@@ -1201,7 +1259,8 @@
           "Some features paid",
           "Ads on free"
         ],
-        "best_for": "Student-paced quizzes"
+        "best_for": "Student-paced quizzes",
+        "has_affiliate": false
       },
       {
         "name": "Blooket",
@@ -1219,7 +1278,8 @@
           "Some modes paid",
           "Can be distracting"
         ],
-        "best_for": "Gamified learning"
+        "best_for": "Gamified learning",
+        "has_affiliate": false
       },
       {
         "name": "Gimkit",
@@ -1237,7 +1297,8 @@
           "Some features paid",
           "Complex for young students"
         ],
-        "best_for": "Strategy-based games"
+        "best_for": "Strategy-based games",
+        "has_affiliate": false
       }
     ]
   },
@@ -1262,7 +1323,8 @@
           "Course features paid",
           "Overwhelming choices"
         ],
-        "best_for": "Huge free library"
+        "best_for": "Huge free library",
+        "has_affiliate": false
       },
       {
         "name": "Healthy Minds Program",
@@ -1280,7 +1342,8 @@
           "Less variety",
           "No celebrity teachers"
         ],
-        "best_for": "Science-based method"
+        "best_for": "Science-based method",
+        "has_affiliate": false
       },
       {
         "name": "Smiling Mind",
@@ -1298,7 +1361,8 @@
           "Australian focus",
           "Basic interface"
         ],
-        "best_for": "Age-specific programs"
+        "best_for": "Age-specific programs",
+        "has_affiliate": false
       }
     ]
   },
@@ -1323,7 +1387,8 @@
           "3 channels max",
           "No team features"
         ],
-        "best_for": "Simple scheduling"
+        "best_for": "Simple scheduling",
+        "has_affiliate": true
       },
       {
         "name": "Later Free",
@@ -1341,7 +1406,8 @@
           "30 posts per platform",
           "Limited analytics"
         ],
-        "best_for": "Visual content planning"
+        "best_for": "Visual content planning",
+        "has_affiliate": false
       },
       {
         "name": "Postiz",
@@ -1359,7 +1425,8 @@
           "Setup complexity",
           "No managed hosting"
         ],
-        "best_for": "Self-hosted unlimited"
+        "best_for": "Self-hosted unlimited",
+        "has_affiliate": false
       }
     ]
   },
@@ -1384,7 +1451,8 @@
           "Learning curve",
           "Not for casual users"
         ],
-        "best_for": "Privacy-first linking notes"
+        "best_for": "Privacy-first linking notes",
+        "has_affiliate": false
       },
       {
         "name": "Joplin",
@@ -1402,7 +1470,8 @@
           "Smaller community",
           "Limited plugins"
         ],
-        "best_for": "Encrypted cross-device"
+        "best_for": "Encrypted cross-device",
+        "has_affiliate": false
       },
       {
         "name": "Apple Notes",
@@ -1420,7 +1489,8 @@
           "Limited export",
           "No Markdown"
         ],
-        "best_for": "Built-in simple option"
+        "best_for": "Built-in simple option",
+        "has_affiliate": false
       }
     ]
   },
@@ -1445,7 +1515,8 @@
           "Smaller community",
           "Setup complexity"
         ],
-        "best_for": "Privacy-first remote access"
+        "best_for": "Privacy-first remote access",
+        "has_affiliate": false
       },
       {
         "name": "Chrome Remote Desktop",
@@ -1463,7 +1534,8 @@
           "Limited features",
           "No file transfer"
         ],
-        "best_for": "Quick remote help"
+        "best_for": "Quick remote help",
+        "has_affiliate": false
       },
       {
         "name": "AnyDesk",
@@ -1481,7 +1553,8 @@
           "Commercial use paid",
           "Session limits"
         ],
-        "best_for": "Fast personal use"
+        "best_for": "Fast personal use",
+        "has_affiliate": false
       }
     ]
   },
@@ -1506,7 +1579,8 @@
           "No official support",
           "Not on Play Store"
         ],
-        "best_for": "Ad-free on Android"
+        "best_for": "Ad-free on Android",
+        "has_affiliate": false
       },
       {
         "name": "Invidious",
@@ -1524,7 +1598,8 @@
           "Some instances slow",
           "No account features"
         ],
-        "best_for": "Privacy browser viewing"
+        "best_for": "Privacy browser viewing",
+        "has_affiliate": false
       },
       {
         "name": "FreeTube",
@@ -1542,7 +1617,8 @@
           "No commenting",
           "Updates manual"
         ],
-        "best_for": "Desktop ad-free"
+        "best_for": "Desktop ad-free",
+        "has_affiliate": false
       }
     ]
   },
@@ -1567,7 +1643,8 @@
           "Setup technical",
           "No voice cloning"
         ],
-        "best_for": "Local neural TTS"
+        "best_for": "Local neural TTS",
+        "has_affiliate": false
       },
       {
         "name": "Bark",
@@ -1585,7 +1662,8 @@
           "Requires GPU",
           "Inconsistent quality"
         ],
-        "best_for": "Expressive audio generation"
+        "best_for": "Expressive audio generation",
+        "has_affiliate": false
       },
       {
         "name": "Coqui TTS",
@@ -1603,7 +1681,8 @@
           "GPU recommended",
           "Quality varies"
         ],
-        "best_for": "Voice cloning"
+        "best_for": "Voice cloning",
+        "has_affiliate": false
       }
     ]
   },
@@ -1628,7 +1707,8 @@
           "Limited free features",
           "Smaller food database"
         ],
-        "best_for": "Precise micronutrient data"
+        "best_for": "Precise micronutrient data",
+        "has_affiliate": false
       },
       {
         "name": "FatSecret",
@@ -1646,7 +1726,8 @@
           "Ads on free",
           "Limited features"
         ],
-        "best_for": "Free calorie tracking"
+        "best_for": "Free calorie tracking",
+        "has_affiliate": false
       },
       {
         "name": "Open Food Facts",
@@ -1664,7 +1745,8 @@
           "Database gaps",
           "No macro goals"
         ],
-        "best_for": "Open food database"
+        "best_for": "Open food database",
+        "has_affiliate": false
       }
     ]
   },
@@ -1689,7 +1771,8 @@
           "Fewer material presets",
           "Different workflow"
         ],
-        "best_for": "Full 3D pipeline"
+        "best_for": "Full 3D pipeline",
+        "has_affiliate": false
       },
       {
         "name": "ArmorPaint",
@@ -1707,7 +1790,8 @@
           "Fewer features",
           "Learning curve"
         ],
-        "best_for": "Purpose-built texturing"
+        "best_for": "Purpose-built texturing",
+        "has_affiliate": false
       },
       {
         "name": "Material Maker",
@@ -1725,7 +1809,8 @@
           "Technical",
           "Small community"
         ],
-        "best_for": "Procedural materials"
+        "best_for": "Procedural materials",
+        "has_affiliate": false
       }
     ]
   },
@@ -1750,7 +1835,8 @@
           "No maintenance records",
           "No accident details"
         ],
-        "best_for": "Theft/salage check"
+        "best_for": "Theft/salage check",
+        "has_affiliate": false
       },
       {
         "name": "VehicleHistory.com",
@@ -1768,7 +1854,8 @@
           "Data gaps",
           "Upsell to paid"
         ],
-        "best_for": "Vehicle specs and recalls"
+        "best_for": "Vehicle specs and recalls",
+        "has_affiliate": false
       },
       {
         "name": "iSeeCars VIN Report",
@@ -1786,7 +1873,527 @@
           "Limited details",
           "Ads heavy"
         ],
-        "best_for": "Price analysis"
+        "best_for": "Price analysis",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Mailchimp",
+    "paid_category": "Email Marketing",
+    "paid_price": "$13/mo",
+    "alternatives": [
+      {
+        "name": "MailerLite Free",
+        "url": "https://mailerlite.com",
+        "free_tier": "1000 subscribers free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Growing email lists",
+        "description": "Email marketing platform with 1000 free subscribers, automation, landing pages, and a drag-and-drop editor. Cleaner UI than Mailchimp.",
+        "pros": [
+          "1000 subscribers free",
+          "Automation included",
+          "Landing page builder"
+        ],
+        "cons": [
+          "No phone support on free",
+          "Limited automation triggers",
+          "No advanced segmentation"
+        ]
+      },
+      {
+        "name": "Brevo (Sendinblue)",
+        "url": "https://brevo.com",
+        "free_tier": "300 emails/day free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Daily email sending",
+        "description": "Email and SMS marketing with 300 free emails per day. Unlimited contacts on free plan.",
+        "pros": [
+          "Unlimited contacts",
+          "300 emails/day free",
+          "SMS marketing included"
+        ],
+        "cons": [
+          "Daily sending limit",
+          "Limited automation",
+          "Branding on free plan"
+        ]
+      },
+      {
+        "name": "Listmonk",
+        "url": "https://listmonk.app",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted newsletters",
+        "description": "Self-hosted newsletter and mailing list manager. Unlimited everything if you host it yourself.",
+        "pros": [
+          "Unlimited subscribers",
+          "Self-hosted",
+          "No branding"
+        ],
+        "cons": [
+          "Requires server setup",
+          "No visual email builder",
+          "Technical"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "SEMrush",
+    "paid_category": "SEO Tools",
+    "paid_price": "$129.95/mo",
+    "alternatives": [
+      {
+        "name": "Ubersuggest",
+        "url": "https://neilpatel.com/ubersuggest",
+        "free_tier": "3 searches/day free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Keyword research",
+        "description": "Neil Patel's SEO tool with keyword research, competitor analysis, and site audits. 3 free searches per day.",
+        "pros": [
+          "Good keyword data",
+          "Site audit included",
+          "Backlink analysis"
+        ],
+        "cons": [
+          "3 searches per day",
+          "Limited data export",
+          "Aggressive upselling"
+        ]
+      },
+      {
+        "name": "Google Search Console",
+        "url": "https://search.google.com/search-console",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Your own site SEO",
+        "description": "Google's own tool showing exactly how your site appears in search. Click data, impressions, indexing status.",
+        "pros": [
+          "Direct from Google",
+          "Real search data",
+          "Indexing control"
+        ],
+        "cons": [
+          "Only your own site",
+          "No competitor data",
+          "Limited keyword ideas"
+        ]
+      },
+      {
+        "name": "Ahrefs Free Tools",
+        "url": "https://ahrefs.com/free-seo-tools",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Backlink checking",
+        "description": "Ahrefs offers several free tools: backlink checker, keyword generator, SERP checker. Good for quick checks.",
+        "pros": [
+          "Real backlink data",
+          "Multiple free tools",
+          "High quality data"
+        ],
+        "cons": [
+          "Very limited on free",
+          "Pushes paid plan hard",
+          "No full reports"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Calendly Premium",
+    "paid_category": "Scheduling",
+    "paid_price": "$10/mo",
+    "alternatives": [
+      {
+        "name": "Cal.com Free",
+        "url": "https://cal.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": true,
+        "best_for": "Open-source scheduling",
+        "description": "Open-source scheduling tool. Self-host for unlimited everything, or use the free cloud tier.",
+        "pros": [
+          "Open source",
+          "Unlimited self-hosted",
+          "Clean modern UI"
+        ],
+        "cons": [
+          "Self-hosting needed for unlimited",
+          "Smaller community than Calendly",
+          "Fewer integrations"
+        ]
+      },
+      {
+        "name": "TidyCal",
+        "url": "https://tidycal.com",
+        "free_tier": "Free plan",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Simple scheduling",
+        "description": "Simple scheduling tool with a generous free plan. One-time payment for lifetime pro access.",
+        "pros": [
+          "Lifetime deal available",
+          "Simple interface",
+          "Unlimited meeting types"
+        ],
+        "cons": [
+          "Fewer integrations",
+          "Less polish than Calendly",
+          "Small team"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Typeform",
+    "paid_category": "Forms & Surveys",
+    "paid_price": "$25/mo",
+    "alternatives": [
+      {
+        "name": "Tally Free",
+        "url": "https://tally.so",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Beautiful forms",
+        "description": "Form builder with 99% of features free. Unlimited forms, unlimited responses, no branding removal fee.",
+        "pros": [
+          "99% free features",
+          "Unlimited responses",
+          "Beautiful designs"
+        ],
+        "cons": [
+          "No payment collection on free",
+          "Limited integrations",
+          "Newer platform"
+        ]
+      },
+      {
+        "name": "Fillout Free",
+        "url": "https://fillout.com",
+        "free_tier": "Unlimited forms free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Unlimited forms",
+        "description": "Unlimited forms with generous free tier. Includes conditional logic, payments, and a drag-and-drop builder.",
+        "pros": [
+          "Unlimited forms",
+          "Payments on free plan",
+          "Conditional logic"
+        ],
+        "cons": [
+          "1000 submissions on free",
+          "Some features locked",
+          "Newer tool"
+        ]
+      },
+      {
+        "name": "Jotform Free",
+        "url": "https://jotform.com",
+        "free_tier": "5 forms, 100 resp/mo",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Established tool",
+        "description": "Popular form builder with 5 free forms and 100 monthly responses. Lots of templates.",
+        "pros": [
+          "Huge template library",
+          "Many integrations",
+          "Mature platform"
+        ],
+        "cons": [
+          "5 form limit",
+          "100 responses/month",
+          "Jotform branding"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Monday.com",
+    "paid_category": "Project Management",
+    "paid_price": "$9/mo",
+    "alternatives": [
+      {
+        "name": "Notion Free",
+        "url": "https://notion.com",
+        "free_tier": "Unlimited blocks for individuals",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Flexible all-in-one workspace",
+        "description": "Notion's free plan is unlimited for individual use. Build project boards, docs, databases in one place.",
+        "pros": [
+          "Unlimited for individuals",
+          "Very flexible",
+          "Great free templates"
+        ],
+        "cons": [
+          "Can get complex",
+          "No Gantt on free",
+          "7-day page history"
+        ]
+      },
+      {
+        "name": "Plane Free",
+        "url": "https://plane.so",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Issue tracking",
+        "description": "Open-source project management tool. Linear-like interface, self-host for free.",
+        "pros": [
+          "Open source",
+          "Linear-like UI",
+          "Self-hostable"
+        ],
+        "cons": [
+          "Requires self-hosting",
+          "Small community",
+          "Setup needed"
+        ]
+      },
+      {
+        "name": "AppFlowy",
+        "url": "https://appflowy.io",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Notion alternative offline",
+        "description": "Open-source Notion alternative that works offline. Full data control, no cloud required.",
+        "pros": [
+          "Offline-first",
+          "Full data control",
+          "Open source"
+        ],
+        "cons": [
+          "Less polished",
+          "Smaller community",
+          "Fewer integrations"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Webflow",
+    "paid_category": "Website Builder",
+    "paid_price": "$14/mo",
+    "alternatives": [
+      {
+        "name": "Framer Free",
+        "url": "https://framer.com",
+        "free_tier": "1 site free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Design-led websites",
+        "description": "Design and publish websites with a Figma-like interface. Free plan includes 1 published site.",
+        "pros": [
+          "Beautiful by default",
+          "No code needed",
+          "Smooth animations"
+        ],
+        "cons": [
+          "1 free site",
+          "Custom domain paid",
+          "Limited CMS on free"
+        ]
+      },
+      {
+        "name": "Carrd",
+        "url": "https://carrd.co",
+        "free_tier": "3 sites free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Simple one-pagers",
+        "description": "Simple one-page site builder. 3 free sites, custom domain on paid. Pro is only $19/year.",
+        "pros": [
+          "3 free sites",
+          "Very cheap pro ($19/yr)",
+          "Easy to use"
+        ],
+        "cons": [
+          "One-page only",
+          "No CMS",
+          "Limited templates"
+        ]
+      },
+      {
+        "name": "Silex",
+        "url": "https://silex.me",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted websites",
+        "description": "Free and open-source website builder. No-code drag and drop interface in your browser.",
+        "pros": [
+          "Fully free",
+          "No-code builder",
+          "Self-hosted"
+        ],
+        "cons": [
+          "Small community",
+          "Dated UI",
+          "Limited hosting"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Zendesk",
+    "paid_category": "Customer Support",
+    "paid_price": "$55/mo",
+    "alternatives": [
+      {
+        "name": "FreeScout",
+        "url": "https://freescout.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted help desk",
+        "description": "Open-source help desk and shared inbox. Self-host for unlimited everything, no per-agent fees.",
+        "pros": [
+          "Unlimited agents",
+          "No per-agent fees",
+          "Self-hosted privacy"
+        ],
+        "cons": [
+          "Self-hosting required",
+          "Setup complexity",
+          "Smaller community"
+        ]
+      },
+      {
+        "name": "Chatwoot",
+        "url": "https://chatwoot.com",
+        "free_tier": "Cloud free tier",
+        "license": "Open Source",
+        "has_affiliate": true,
+        "best_for": "Omnichannel support",
+        "description": "Open-source omnichannel customer support. Email, chat, social media in one inbox.",
+        "pros": [
+          "Omnichannel",
+          "Open source",
+          "Cloud or self-hosted"
+        ],
+        "cons": [
+          "Free tier limited",
+          "Setup for self-host",
+          "Learning curve"
+        ]
+      },
+      {
+        "name": "HESK",
+        "url": "https://hesk.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Simple ticket system",
+        "description": "Free PHP help desk. Simple ticket management, been around since 2005.",
+        "pros": [
+          "Truly free",
+          "Simple and fast",
+          "No limits"
+        ],
+        "cons": [
+          "Very dated",
+          "PHP only",
+          "No modern features"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Surfer SEO",
+    "paid_category": "SEO Tools",
+    "paid_price": "$89/mo",
+    "alternatives": [
+      {
+        "name": "NeuronWriter Free",
+        "url": "https://neuronwriter.com",
+        "free_tier": "2 articles free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "AI content optimization",
+        "description": "AI-powered content optimization with SERP analysis. 2 free articles per month.",
+        "pros": [
+          "SERP analysis",
+          "AI content scoring",
+          "Good free tier to try"
+        ],
+        "cons": [
+          "2 articles/month",
+          "Limited exports",
+          "Upsell heavy"
+        ]
+      },
+      {
+        "name": "Frase Free Trial",
+        "url": "https://frase.io",
+        "free_tier": "5 articles free trial",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Content briefs",
+        "description": "AI content tool that creates SEO-optimized briefs from top search results.",
+        "pros": [
+          "Good brief generation",
+          "SERP-based content",
+          "AI writing included"
+        ],
+        "cons": [
+          "Only 5 articles free",
+          "Then $14.99/mo",
+          "Limited on free trial"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Teachable",
+    "paid_category": "Online Courses",
+    "paid_price": "$39/mo",
+    "alternatives": [
+      {
+        "name": "Gumroad Free",
+        "url": "https://gumroad.com",
+        "free_tier": "Free to start",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Digital products + courses",
+        "description": "Sell courses, ebooks, and digital products. No monthly fee \u2014 just 10% per sale.",
+        "pros": [
+          "No monthly fee",
+          "Sell anything digital",
+          "Built-in audience"
+        ],
+        "cons": [
+          "10% transaction fee",
+          "Limited course features",
+          "No quizzes/assignments"
+        ]
+      },
+      {
+        "name": "Maven Free",
+        "url": "https://maven.com",
+        "free_tier": "Free to host",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Cohort-based courses",
+        "description": "Host live cohort-based courses. Free to create, Maven takes a cut of enrollments.",
+        "pros": [
+          "No upfront cost",
+          "Built-in audience",
+          "Live cohort model"
+        ],
+        "cons": [
+          "Only cohort courses",
+          "Not self-paced",
+          "Revenue share"
+        ]
       }
     ]
   }
