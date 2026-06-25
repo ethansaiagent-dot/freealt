@@ -6870,5 +6870,3452 @@
         ]
       }
     ]
+  },
+  {
+    "paid_tool": "Klaviyo",
+    "paid_category": "Email Marketing",
+    "paid_price": "$45/mo",
+    "alternatives": [
+      {
+        "name": "MailerLite Free",
+        "url": "https://mailerlite.com",
+        "free_tier": "1000 subs free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Growing lists",
+        "description": "Email marketing with 1000 free subscribers, automation, and landing pages.",
+        "pros": [
+          "1000 subs free",
+          "Automation included",
+          "Landing pages"
+        ],
+        "cons": [
+          "No phone support",
+          "Limited automation",
+          "No advanced segmentation"
+        ]
+      },
+      {
+        "name": "Brevo Free",
+        "url": "https://brevo.com",
+        "free_tier": "300 emails/day",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Daily sending",
+        "description": "300 free emails per day with unlimited contacts.",
+        "pros": [
+          "Unlimited contacts",
+          "300/day free",
+          "SMS included"
+        ],
+        "cons": [
+          "Daily limit",
+          "Branding on free",
+          "Limited automation"
+        ]
+      },
+      {
+        "name": "Listmonk",
+        "url": "https://listmonk.app",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted",
+        "description": "Self-hosted newsletter manager. Unlimited everything.",
+        "pros": [
+          "Unlimited subscribers",
+          "Self-hosted",
+          "No branding"
+        ],
+        "cons": [
+          "Requires server",
+          "No visual builder",
+          "Technical"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "ConvertKit",
+    "paid_category": "Email Marketing",
+    "paid_price": "$25/mo",
+    "alternatives": [
+      {
+        "name": "MailerLite Free",
+        "url": "https://mailerlite.com",
+        "free_tier": "1000 subs free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Creators",
+        "description": "1000 free subscribers with automation and landing pages.",
+        "pros": [
+          "1000 free",
+          "Automation",
+          "Landing pages"
+        ],
+        "cons": [
+          "Limited features",
+          "No advanced segments",
+          "Branding"
+        ]
+      },
+      {
+        "name": "Brevo Free",
+        "url": "https://brevo.com",
+        "free_tier": "300 emails/day",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Unlimited contacts",
+        "description": "300 free emails per day, unlimited contacts.",
+        "pros": [
+          "Unlimited contacts",
+          "300/day",
+          "SMS marketing"
+        ],
+        "cons": [
+          "Daily limit",
+          "Branding",
+          "Limited automation"
+        ]
+      },
+      {
+        "name": "Buttondown Free",
+        "url": "https://buttondown.email",
+        "free_tier": "100 subs free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Newsletter writers",
+        "description": "Simple newsletter tool for writers. 100 free subscribers.",
+        "pros": [
+          "Writer-focused",
+          "Simple",
+          "Markdown support"
+        ],
+        "cons": [
+          "100 sub limit",
+          "Very basic",
+          "Few features"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "ActiveCampaign",
+    "paid_category": "Email Marketing",
+    "paid_price": "$15/mo",
+    "alternatives": [
+      {
+        "name": "MailerLite",
+        "url": "https://mailerlite.com",
+        "free_tier": "1000 subs",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Automation",
+        "description": "Email automation with 1000 free subscribers.",
+        "pros": [
+          "1000 free",
+          "Automation",
+          "Good editor"
+        ],
+        "cons": [
+          "Limited triggers",
+          "No CRM",
+          "Branding"
+        ]
+      },
+      {
+        "name": "Mautic",
+        "url": "https://mautic.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted automation",
+        "description": "Open-source marketing automation. Full CRM and email automation.",
+        "pros": [
+          "Full automation free",
+          "Open source",
+          "CRM included"
+        ],
+        "cons": [
+          "Self-hosting",
+          "Complex setup",
+          "Dated UI"
+        ]
+      },
+      {
+        "name": "Brevo",
+        "url": "https://brevo.com",
+        "free_tier": "300/day",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Simple automation",
+        "description": "300 free emails/day with basic automation.",
+        "pros": [
+          "300/day free",
+          "Unlimited contacts",
+          "Basic automation"
+        ],
+        "cons": [
+          "Daily limit",
+          "Limited automation",
+          "Branding"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Later Pro",
+    "paid_category": "Social Media",
+    "paid_price": "$25/mo",
+    "alternatives": [
+      {
+        "name": "Buffer Free",
+        "url": "https://buffer.com",
+        "free_tier": "3 channels, 10 posts",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Simple scheduling",
+        "description": "3 channels with 10 scheduled posts each. Clean interface.",
+        "pros": [
+          "3 channels",
+          "Easy to use",
+          "Good analytics"
+        ],
+        "cons": [
+          "10 post limit",
+          "3 channels only",
+          "No team features"
+        ]
+      },
+      {
+        "name": "Postiz",
+        "url": "https://postiz.com",
+        "free_tier": "Self-host free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Unlimited self-hosted",
+        "description": "Open-source social media scheduler. Self-host for unlimited everything.",
+        "pros": [
+          "Unlimited self-hosted",
+          "Open source",
+          "All features"
+        ],
+        "cons": [
+          "Self-hosting",
+          "Setup",
+          "No managed hosting"
+        ]
+      },
+      {
+        "name": "Pallyy Free",
+        "url": "https://pallyy.com",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Instagram",
+        "description": "Instagram-focused scheduling and analytics.",
+        "pros": [
+          "Instagram focused",
+          "Good analytics",
+          "Simple"
+        ],
+        "cons": [
+          "Limited free",
+          "One platform",
+          "Pro gated"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Sprout Social",
+    "paid_category": "Social Media",
+    "paid_price": "$249/mo",
+    "alternatives": [
+      {
+        "name": "Buffer Free",
+        "url": "https://buffer.com",
+        "free_tier": "3 channels, 10 posts",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Basic scheduling",
+        "description": "3 free channels with simple scheduling.",
+        "pros": [
+          "3 channels free",
+          "Clean UI",
+          "Analytics"
+        ],
+        "cons": [
+          "10 posts per channel",
+          "3 channels",
+          "No team features"
+        ]
+      },
+      {
+        "name": "Postiz",
+        "url": "https://postiz.com",
+        "free_tier": "Self-host free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted",
+        "description": "Open-source social media management. Unlimited when self-hosted.",
+        "pros": [
+          "Unlimited",
+          "Open source",
+          "All features"
+        ],
+        "cons": [
+          "Self-hosting",
+          "Setup",
+          "Maintenance"
+        ]
+      },
+      {
+        "name": "Later Free",
+        "url": "https://later.com",
+        "free_tier": "1 social set",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Visual planning",
+        "description": "Visual content calendar for Instagram and more.",
+        "pros": [
+          "Visual calendar",
+          "Instagram focus",
+          "Link in bio"
+        ],
+        "cons": [
+          "1 social set",
+          "30 posts/platform",
+          "Limited features"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Buffer Pro",
+    "paid_category": "Social Media",
+    "paid_price": "$6/mo",
+    "alternatives": [
+      {
+        "name": "Postiz",
+        "url": "https://postiz.com",
+        "free_tier": "Self-host free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Unlimited free",
+        "description": "Open-source social scheduler. Self-host for unlimited everything.",
+        "pros": [
+          "Unlimited",
+          "Open source",
+          "All features"
+        ],
+        "cons": [
+          "Self-hosting",
+          "Setup",
+          "Maintenance"
+        ]
+      },
+      {
+        "name": "Pallyy Free",
+        "url": "https://pallyy.com",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Instagram focus",
+        "description": "Instagram scheduling with analytics.",
+        "pros": [
+          "Instagram",
+          "Analytics",
+          "Simple"
+        ],
+        "cons": [
+          "Limited free",
+          "One platform",
+          "Pro gated"
+        ]
+      },
+      {
+        "name": "SocialBU Free",
+        "url": "https://socialbu.com",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Simple posting",
+        "description": "Simple social media scheduling tool.",
+        "pros": [
+          "Simple",
+          "Free tier",
+          "Easy"
+        ],
+        "cons": [
+          "Limited",
+          "Basic",
+          "Unknown"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Adobe XD",
+    "paid_category": "UI Design",
+    "paid_price": "$9.99/mo",
+    "alternatives": [
+      {
+        "name": "Penpot",
+        "url": "https://penpot.app",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Open-source design",
+        "description": "Open-source UI design tool with collaboration.",
+        "pros": [
+          "Open source",
+          "SVG native",
+          "Self-hostable"
+        ],
+        "cons": [
+          "Fewer features",
+          "Less polished",
+          "Small community"
+        ]
+      },
+      {
+        "name": "Figma Free",
+        "url": "https://figma.com",
+        "free_tier": "3 projects free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Industry standard",
+        "description": "3 free projects with real-time collaboration.",
+        "pros": [
+          "Industry standard",
+          "Collaboration",
+          "Prototyping"
+        ],
+        "cons": [
+          "3 project limit",
+          "No branches",
+          "Limited history"
+        ]
+      },
+      {
+        "name": "Lunacy",
+        "url": "https://icons8.com/lunacy",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": true,
+        "best_for": "Windows design",
+        "description": "Free design tool with built-in assets.",
+        "pros": [
+          "Free",
+          "Built-in assets",
+          "Sketch compatible"
+        ],
+        "cons": [
+          "Windows only",
+          "Less popular",
+          "Limited plugins"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Affinity Photo",
+    "paid_category": "Photo Editing",
+    "paid_price": "$69.99",
+    "alternatives": [
+      {
+        "name": "GIMP",
+        "url": "https://gimp.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Free photo editing",
+        "description": "Full-featured image editor. Layers, masks, filters.",
+        "pros": [
+          "Professional tools",
+          "PSD support",
+          "Plugins"
+        ],
+        "cons": [
+          "Steep learning curve",
+          "Dated UI",
+          "No CMYK"
+        ]
+      },
+      {
+        "name": "Photopea",
+        "url": "https://photopea.com",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Browser editing",
+        "description": "Browser-based editor that looks like Photoshop.",
+        "pros": [
+          "No install",
+          "PSD support",
+          "Familiar UI"
+        ],
+        "cons": [
+          "Ads on free",
+          "Needs internet",
+          "Slower on big files"
+        ]
+      },
+      {
+        "name": "Krita",
+        "url": "https://krita.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Painting + editing",
+        "description": "Digital painting and photo editing in one.",
+        "pros": [
+          "Brush engine",
+          "Animation",
+          "Free"
+        ],
+        "cons": [
+          "Less photo-focused",
+          "Fewer filters",
+          "Not PSD replacement"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Ulysses",
+    "paid_category": "Writing",
+    "paid_price": "$5.99/mo",
+    "alternatives": [
+      {
+        "name": "Obsidian",
+        "url": "https://obsidian.md",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Markdown writing",
+        "description": "Local-first Markdown editor with linking and plugins.",
+        "pros": [
+          "Free",
+          "Local files",
+          "Powerful plugins"
+        ],
+        "cons": [
+          "No library sync",
+          "Learning curve",
+          "Not Apple-only"
+        ]
+      },
+      {
+        "name": "Typora",
+        "url": "https://typora.io",
+        "free_tier": "$14.99 one-time",
+        "license": "Paid",
+        "has_affiliate": false,
+        "best_for": "Minimal Markdown",
+        "description": "Clean Markdown editor with live preview. One-time purchase.",
+        "pros": [
+          "Beautiful",
+          "Live preview",
+          "One-time fee"
+        ],
+        "cons": [
+          "Not free",
+          "No library",
+          "No plugins"
+        ]
+      },
+      {
+        "name": "MarkText",
+        "url": "https://marktext.app",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Free Typora alt",
+        "description": "Open-source Markdown editor with live preview.",
+        "pros": [
+          "Free and open source",
+          "Live preview",
+          "Clean interface"
+        ],
+        "cons": [
+          "Small community",
+          "Slow development",
+          "Limited features"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Hemingway Editor Pro",
+    "paid_category": "Writing",
+    "paid_price": "$8/mo",
+    "alternatives": [
+      {
+        "name": "Hemingway Editor Free",
+        "url": "https://hemingwayapp.com",
+        "free_tier": "Free online",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Readability",
+        "description": "Free web version highlights complex sentences and passive voice.",
+        "pros": [
+          "Instant analysis",
+          "Simple",
+          "No account"
+        ],
+        "cons": [
+          "No saving",
+          "No desktop",
+          "No suggestions"
+        ]
+      },
+      {
+        "name": "LanguageTool",
+        "url": "https://languagetool.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Grammar + style",
+        "description": "Open-source grammar and style checker. Browser extension.",
+        "pros": [
+          "Multi-language",
+          "Open source",
+          "Browser extension"
+        ],
+        "cons": [
+          "Fewer style suggestions",
+          "Less polished",
+          "No tone detection"
+        ]
+      },
+      {
+        "name": "ProWritingAid Free",
+        "url": "https://prowritingaid.com",
+        "free_tier": "500 words free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Writing analysis",
+        "description": "Detailed writing reports and readability analysis.",
+        "pros": [
+          "Detailed reports",
+          "Integrations",
+          "Readability"
+        ],
+        "cons": [
+          "500 word limit",
+          "Upsell",
+          "Fewer free suggestions"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Google One",
+    "paid_category": "Cloud Storage",
+    "paid_price": "$1.99/mo",
+    "alternatives": [
+      {
+        "name": "Nextcloud",
+        "url": "https://nextcloud.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted",
+        "description": "Self-hosted cloud with unlimited storage.",
+        "pros": [
+          "Unlimited",
+          "Full control",
+          "Many apps"
+        ],
+        "cons": [
+          "Self-hosting",
+          "Setup",
+          "Maintenance"
+        ]
+      },
+      {
+        "name": "Proton Drive Free",
+        "url": "https://proton.me/drive",
+        "free_tier": "5GB free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Encrypted storage",
+        "description": "5GB free encrypted cloud storage.",
+        "pros": [
+          "End-to-end encrypted",
+          "Privacy",
+          "Swiss based"
+        ],
+        "cons": [
+          "Only 5GB",
+          "Newer",
+          "Limited features"
+        ]
+      },
+      {
+        "name": "Mega Free",
+        "url": "https://mega.io",
+        "free_tier": "20GB free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Large free tier",
+        "description": "20GB free encrypted cloud storage.",
+        "pros": [
+          "20GB free",
+          "End-to-end encrypted",
+          "Cross-platform"
+        ],
+        "cons": [
+          "Bandwidth limits",
+          "Transfer limits",
+          "Privacy concerns"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Backblaze",
+    "paid_category": "Backup",
+    "paid_price": "$7/mo",
+    "alternatives": [
+      {
+        "name": "Rclone",
+        "url": "https://rclone.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "DIY backup",
+        "description": "Command-line tool to sync files to any cloud storage.",
+        "pros": [
+          "Any cloud provider",
+          "Open source",
+          "Encrypted"
+        ],
+        "cons": [
+          "Command-line only",
+          "No GUI",
+          "Setup complexity"
+        ]
+      },
+      {
+        "name": "Duplicati",
+        "url": "https://duplicati.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Encrypted backup",
+        "description": "Free backup software with encryption and deduplication.",
+        "pros": [
+          "Encrypted",
+          "Deduplication",
+          "Any destination"
+        ],
+        "cons": [
+          "Slow on large data",
+          "Dated UI",
+          "Setup needed"
+        ]
+      },
+      {
+        "name": "Restic",
+        "url": "https://restic.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Fast backup",
+        "description": "Fast, secure, efficient backup program for advanced users.",
+        "pros": [
+          "Very fast",
+          "Encrypted",
+          "Deduplication"
+        ],
+        "cons": [
+          "Command-line only",
+          "No GUI",
+          "Advanced users"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "ExpressVPN",
+    "paid_category": "VPN",
+    "paid_price": "$6.67/mo",
+    "alternatives": [
+      {
+        "name": "ProtonVPN Free",
+        "url": "https://protonvpn.com",
+        "free_tier": "Unlimited data free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Unlimited free VPN",
+        "description": "Unlimited data on free plan. No ads. Swiss privacy laws.",
+        "pros": [
+          "Unlimited data",
+          "No ads",
+          "Swiss privacy"
+        ],
+        "cons": [
+          "3 countries",
+          "1 device",
+          "Medium speed"
+        ]
+      },
+      {
+        "name": "Windscribe Free",
+        "url": "https://windscribe.com",
+        "free_tier": "10GB/mo free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Generous free tier",
+        "description": "10GB free per month with 10+ countries.",
+        "pros": [
+          "10GB free",
+          "10+ countries",
+          "Ad blocker"
+        ],
+        "cons": [
+          "10GB limit",
+          "1 device",
+          "Slower speeds"
+        ]
+      },
+      {
+        "name": "Tailscale Free",
+        "url": "https://tailscale.com",
+        "free_tier": "100 devices free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Mesh VPN",
+        "description": "WireGuard-based mesh VPN. 100 devices for personal use.",
+        "pros": [
+          "100 devices",
+          "WireGuard",
+          "Mesh network"
+        ],
+        "cons": [
+          "Not for anonymity",
+          "Coordinator server",
+          "Limited free features"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "NordVPN",
+    "paid_category": "VPN",
+    "paid_price": "$3.71/mo",
+    "alternatives": [
+      {
+        "name": "ProtonVPN Free",
+        "url": "https://protonvpn.com",
+        "free_tier": "Unlimited data",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Unlimited free",
+        "description": "Unlimited data, no ads, Swiss privacy.",
+        "pros": [
+          "Unlimited data",
+          "No ads",
+          "Swiss privacy"
+        ],
+        "cons": [
+          "3 countries",
+          "1 device",
+          "Medium speed"
+        ]
+      },
+      {
+        "name": "Windscribe Free",
+        "url": "https://windscribe.com",
+        "free_tier": "10GB/mo",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "10GB free",
+        "description": "10GB/month free with 10+ countries.",
+        "pros": [
+          "10GB free",
+          "10+ countries",
+          "Ad blocker"
+        ],
+        "cons": [
+          "10GB limit",
+          "1 device",
+          "Slower"
+        ]
+      },
+      {
+        "name": "IVPN Free Trial",
+        "url": "https://ivpn.net",
+        "free_tier": "3-day trial",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Privacy-focused",
+        "description": "Privacy-focused VPN with free trial.",
+        "pros": [
+          "No logs",
+          "Privacy-focused",
+          "Good speed"
+        ],
+        "cons": [
+          "3-day trial only",
+          "Paid after",
+          "Limited trial"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Docker Pro",
+    "paid_category": "Development",
+    "paid_price": "$9/mo",
+    "alternatives": [
+      {
+        "name": "Podman",
+        "url": "https://podman.io",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Daemonless containers",
+        "description": "Drop-in Docker replacement. No daemon, rootless by default.",
+        "pros": [
+          "No daemon",
+          "Rootless",
+          "Docker compatible"
+        ],
+        "cons": [
+          "Fewer features",
+          "Smaller ecosystem",
+          "Learning curve"
+        ]
+      },
+      {
+        "name": "containerd",
+        "url": "https://containerd.io",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Core runtime",
+        "description": "Industry-standard container runtime. Docker uses it internally.",
+        "pros": [
+          "Industry standard",
+          "Lightweight",
+          "Reliable"
+        ],
+        "cons": [
+          "Low-level",
+          "No CLI tools",
+          "For advanced users"
+        ]
+      },
+      {
+        "name": "Kaniko",
+        "url": "https://github.com/GoogleContainerTools/kaniko",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Building images",
+        "description": "Build container images without Docker daemon.",
+        "pros": [
+          "No daemon needed",
+          "Kubernetes native",
+          "Free"
+        ],
+        "cons": [
+          "Build only",
+          "Not a runtime",
+          "Google project"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "JetBrains WebStorm",
+    "paid_category": "IDE",
+    "paid_price": "$6.90/mo",
+    "alternatives": [
+      {
+        "name": "VS Code",
+        "url": "https://code.visualstudio.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Most developers",
+        "description": "Free, fast, extensible editor with huge ecosystem.",
+        "pros": [
+          "Free forever",
+          "Huge extensions",
+          "Excellent debugging"
+        ],
+        "cons": [
+          "Heavier than editors",
+          "Telemetry",
+          "Extensions can be heavy"
+        ]
+      },
+      {
+        "name": "Cursor Free",
+        "url": "https://cursor.com",
+        "free_tier": "Free tier",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "AI coding",
+        "description": "VS Code fork with built-in AI assistant.",
+        "pros": [
+          "AI built-in",
+          "VS Code compatible",
+          "Good free tier"
+        ],
+        "cons": [
+          "AI limits on free",
+          "Newer product",
+          "Pro features gated"
+        ]
+      },
+      {
+        "name": "Zed",
+        "url": "https://zed.dev",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Speed",
+        "description": "Blazing fast editor built in Rust.",
+        "pros": [
+          "Extremely fast",
+          "Collaboration",
+          "Rust-based"
+        ],
+        "cons": [
+          "Mac only",
+          "Limited extensions",
+          "Early stage"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "JetBrains PyCharm",
+    "paid_category": "IDE",
+    "paid_price": "$8.90/mo",
+    "alternatives": [
+      {
+        "name": "VS Code + Python ext",
+        "url": "https://code.visualstudio.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Most Python devs",
+        "description": "VS Code with Microsoft's Python extension is excellent.",
+        "pros": [
+          "Free",
+          "Huge ecosystem",
+          "Great debugging"
+        ],
+        "cons": [
+          "Not a full IDE",
+          "Needs extensions",
+          "Memory usage"
+        ]
+      },
+      {
+        "name": "Spyder",
+        "url": "https://spyder-ide.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Data science",
+        "description": "Scientific Python IDE with variable explorer and plots.",
+        "pros": [
+          "Data science focused",
+          "Variable explorer",
+          "Free"
+        ],
+        "cons": [
+          "Less polished",
+          "Limited plugins",
+          "Slower"
+        ]
+      },
+      {
+        "name": "Thonny",
+        "url": "https://thonny.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Beginners",
+        "description": "Simple Python IDE perfect for learning.",
+        "pros": [
+          "Great for beginners",
+          "Simple",
+          "Step-through debugging"
+        ],
+        "cons": [
+          "Limited features",
+          "Not for pros",
+          "Basic"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "JetBrains CLion",
+    "paid_category": "IDE",
+    "paid_price": "$8.90/mo",
+    "alternatives": [
+      {
+        "name": "VS Code + C++ ext",
+        "url": "https://code.visualstudio.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Most C++ devs",
+        "description": "VS Code with C/C++ extensions handles most needs.",
+        "pros": [
+          "Free",
+          "Extensible",
+          "Good debugging"
+        ],
+        "cons": [
+          "Needs setup",
+          "Not full IDE",
+          "Extension quality varies"
+        ]
+      },
+      {
+        "name": "Code::Blocks",
+        "url": "https://codeblocks.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Simple C++ IDE",
+        "description": "Free C/C++ IDE with compiler integration.",
+        "pros": [
+          "Free",
+          "Built-in compiler",
+          "Cross-platform"
+        ],
+        "cons": [
+          "Dated UI",
+          "Limited features",
+          "Slow development"
+        ]
+      },
+      {
+        "name": "Eclipse CDT",
+        "url": "https://eclipse.org/cdt",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Large projects",
+        "description": "Mature C/C++ IDE with refactoring and debugging.",
+        "pros": [
+          "Mature",
+          "Good refactoring",
+          "Free"
+        ],
+        "cons": [
+          "Heavy",
+          "Dated UI",
+          "Plugin conflicts"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Xero",
+    "paid_category": "Accounting",
+    "paid_price": "$15/mo",
+    "alternatives": [
+      {
+        "name": "Wave",
+        "url": "https://waveapps.com",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Small business",
+        "description": "Free accounting with invoicing and bank sync.",
+        "pros": [
+          "Free",
+          "Invoices",
+          "Bank sync"
+        ],
+        "cons": [
+          "Payment fees",
+          "No inventory",
+          "Limited payroll"
+        ]
+      },
+      {
+        "name": "Manager.io",
+        "url": "https://manager.io",
+        "free_tier": "Desktop free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Offline",
+        "description": "Full accounting on desktop for free.",
+        "pros": [
+          "No limits",
+          "Offline",
+          "Full features"
+        ],
+        "cons": [
+          "Cloud paid",
+          "Dated UI",
+          "Learning curve"
+        ]
+      },
+      {
+        "name": "Akaunting",
+        "url": "https://akaunting.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted accounting",
+        "description": "Open-source online accounting. Self-host for free.",
+        "pros": [
+          "Open source",
+          "Self-hosted",
+          "No limits"
+        ],
+        "cons": [
+          "Setup",
+          "Dated UI",
+          "Small community"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Zoho Books",
+    "paid_category": "Accounting",
+    "paid_price": "$15/mo",
+    "alternatives": [
+      {
+        "name": "Wave",
+        "url": "https://waveapps.com",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Free accounting",
+        "description": "Free accounting and invoicing for small businesses.",
+        "pros": [
+          "Free",
+          "Invoices",
+          "Bank sync"
+        ],
+        "cons": [
+          "Payment fees",
+          "No inventory",
+          "Limited payroll"
+        ]
+      },
+      {
+        "name": "GnuCash",
+        "url": "https://gnucash.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Double-entry",
+        "description": "Mature open-source accounting.",
+        "pros": [
+          "Double-entry",
+          "Mature",
+          "Reports"
+        ],
+        "cons": [
+          "Dated UI",
+          "No invoicing",
+          "Not cloud"
+        ]
+      },
+      {
+        "name": "Akaunting",
+        "url": "https://akaunting.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted",
+        "description": "Open-source accounting software.",
+        "pros": [
+          "Self-hosted",
+          "Open source",
+          "No fees"
+        ],
+        "cons": [
+          "Setup",
+          "Dated",
+          "Small community"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Pipedrive",
+    "paid_category": "CRM",
+    "paid_price": "$14/mo",
+    "alternatives": [
+      {
+        "name": "Bitrix24 Free",
+        "url": "https://bitrix24.com",
+        "free_tier": "12 users free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "All-in-one",
+        "description": "CRM with 12 free users and project management.",
+        "pros": [
+          "12 users free",
+          "All-in-one",
+          "Good CRM"
+        ],
+        "cons": [
+          "Complex UI",
+          "Storage limited",
+          "Pro expensive"
+        ]
+      },
+      {
+        "name": "SuiteCRM",
+        "url": "https://suitecrm.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Enterprise CRM",
+        "description": "Open-source enterprise CRM.",
+        "pros": [
+          "Enterprise features",
+          "No limits",
+          "Open source"
+        ],
+        "cons": [
+          "Dated UI",
+          "PHP",
+          "Setup needed"
+        ]
+      },
+      {
+        "name": "EspoCRM",
+        "url": "https://espocrm.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Lightweight CRM",
+        "description": "Clean, fast open-source CRM.",
+        "pros": [
+          "Clean interface",
+          "Good API",
+          "Self-hostable"
+        ],
+        "cons": [
+          "Small community",
+          "Fewer features",
+          "Limited integrations"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Intercom",
+    "paid_category": "Customer Support",
+    "paid_price": "$74/mo",
+    "alternatives": [
+      {
+        "name": "Chatwoot",
+        "url": "https://chatwoot.com",
+        "free_tier": "Cloud free tier",
+        "license": "Open Source",
+        "has_affiliate": true,
+        "best_for": "Live chat",
+        "description": "Open-source live chat and support.",
+        "pros": [
+          "Open source",
+          "Live chat",
+          "Self-hostable"
+        ],
+        "cons": [
+          "Free tier limited",
+          "Setup",
+          "Fewer features"
+        ]
+      },
+      {
+        "name": "Papercups",
+        "url": "https://papercups.io",
+        "free_tier": "Self-host free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Simple live chat",
+        "description": "Open-source live chat with Elixir backend.",
+        "pros": [
+          "Open source",
+          "Simple",
+          "Elixir-based"
+        ],
+        "cons": [
+          "Small community",
+          "Limited features",
+          "Setup needed"
+        ]
+      },
+      {
+        "name": "Tawk.to",
+        "url": "https://tawk.to",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": true,
+        "best_for": "Free live chat",
+        "description": "Free live chat for unlimited agents.",
+        "pros": [
+          "Unlimited agents",
+          "Free forever",
+          "Mobile app"
+        ],
+        "cons": [
+          "Ads on dashboard",
+          "Limited features",
+          "Data harvesting concerns"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Vimeo Plus",
+    "paid_category": "Video Hosting",
+    "paid_price": "$7/mo",
+    "alternatives": [
+      {
+        "name": "PeerTube",
+        "url": "https://joinpeertube.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted video",
+        "description": "Open-source decentralized video hosting.",
+        "pros": [
+          "Decentralized",
+          "Open source",
+          "Self-hostable"
+        ],
+        "cons": [
+          "Small community",
+          "Setup needed",
+          "No monetization"
+        ]
+      },
+      {
+        "name": "YouTube Free",
+        "url": "https://youtube.com",
+        "free_tier": "Free with ads",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Massive reach",
+        "description": "Free video hosting with huge audience.",
+        "pros": [
+          "Massive audience",
+          "Free",
+          "Good tools"
+        ],
+        "cons": [
+          "Ads",
+          "YouTube controls",
+          "Privacy concerns"
+        ]
+      },
+      {
+        "name": "Mux Free",
+        "url": "https://mux.com",
+        "free_tier": "$10 credit",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Developer video API",
+        "description": "Video API for developers with free credit.",
+        "pros": [
+          "Developer API",
+          "Good quality",
+          "CDN included"
+        ],
+        "cons": [
+          "$10 credit only",
+          "Then pay per use",
+          "Developer-focused"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Descript",
+    "paid_category": "Audio/Video Editing",
+    "paid_price": "$12/mo",
+    "alternatives": [
+      {
+        "name": "Audacity",
+        "url": "https://audacityteam.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Audio editing",
+        "description": "Free audio editor with recording and effects.",
+        "pros": [
+          "Industry standard",
+          "Cross-platform",
+          "Huge community"
+        ],
+        "cons": [
+          "Dated UI",
+          "Destructive editing",
+          "No video"
+        ]
+      },
+      {
+        "name": "CapCut",
+        "url": "https://capcut.com",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Video + audio",
+        "description": "Free video editor with transcription and captions.",
+        "pros": [
+          "Free",
+          "Transcription",
+          "Captions",
+          "Easy"
+        ],
+        "cons": [
+          "Pro features locked",
+          "Cloud-focused",
+          "Limited for long-form"
+        ]
+      },
+      {
+        "name": "Olive Video Editor",
+        "url": "https://olivevideoeditor.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Simple video editing",
+        "description": "Free non-linear video editor.",
+        "pros": [
+          "Free",
+          "Open source",
+          "Non-linear"
+        ],
+        "cons": [
+          "Early stage",
+          "Limited features",
+          "Bugs"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "LastPass Premium",
+    "paid_category": "Password Manager",
+    "paid_price": "$3/mo",
+    "alternatives": [
+      {
+        "name": "Bitwarden",
+        "url": "https://bitwarden.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": true,
+        "best_for": "Best free option",
+        "description": "Better free tier than LastPass ever was.",
+        "pros": [
+          "Unlimited everything",
+          "Open source",
+          "Better than LastPass free"
+        ],
+        "cons": [
+          "Less polished UI",
+          "Importer could improve",
+          "Self-host technical"
+        ]
+      },
+      {
+        "name": "KeePassXC",
+        "url": "https://keepassxc.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Offline security",
+        "description": "Local password manager, encrypted file.",
+        "pros": [
+          "No cloud dependency",
+          "AES-256",
+          "No account"
+        ],
+        "cons": [
+          "No auto sync",
+          "Desktop",
+          "Manual setup"
+        ]
+      },
+      {
+        "name": "Proton Pass",
+        "url": "https://proton.me/pass",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Encrypted",
+        "description": "End-to-end encrypted password manager.",
+        "pros": [
+          "Encrypted",
+          "Email aliases",
+          "Mobile apps"
+        ],
+        "cons": [
+          "Newer product",
+          "Limited free features",
+          "No sharing"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "LogRocket",
+    "paid_category": "Monitoring",
+    "paid_price": "$69/mo",
+    "alternatives": [
+      {
+        "name": "Sentry Free",
+        "url": "https://sentry.io",
+        "free_tier": "5K errors/mo",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Error tracking",
+        "description": "5K free errors per month with good SDKs.",
+        "pros": [
+          "5K errors free",
+          "Good SDKs",
+          "Integrations"
+        ],
+        "cons": [
+          "5K limit",
+          "Pro expensive",
+          "Limited retention"
+        ]
+      },
+      {
+        "name": "OpenReplay",
+        "url": "https://openreplay.com",
+        "free_tier": "Self-host free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Session replay",
+        "description": "Open-source session replay. Self-host for free.",
+        "pros": [
+          "Open source",
+          "Session replay",
+          "Self-hosted"
+        ],
+        "cons": [
+          "Self-hosting",
+          "Resource heavy",
+          "Setup"
+        ]
+      },
+      {
+        "name": "Highlight.io",
+        "url": "https://highlight.io",
+        "free_tier": "Free tier",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Full-stack monitoring",
+        "description": "Open-source full-stack monitoring with session replay.",
+        "pros": [
+          "Open core",
+          "Session replay",
+          "Error tracking"
+        ],
+        "cons": [
+          "Newer",
+          "Free tier limited",
+          "Setup"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "XMind Pro",
+    "paid_category": "Mind Mapping",
+    "paid_price": "$59.99/yr",
+    "alternatives": [
+      {
+        "name": "draw.io",
+        "url": "https://app.diagrams.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Free diagramming",
+        "description": "Free diagram tool that handles mind maps and flowcharts.",
+        "pros": [
+          "Full diagramming",
+          "Open source",
+          "No account needed"
+        ],
+        "cons": [
+          "Dated UI",
+          "Not mind-map focused",
+          "No XMind export"
+        ]
+      },
+      {
+        "name": "FreeMind",
+        "url": "https://freemind.sourceforge.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Classic mind maps",
+        "description": "Old-school mind mapping software.",
+        "pros": [
+          "Lightweight",
+          "Free",
+          "Classic interface"
+        ],
+        "cons": [
+          "Very dated",
+          "Java-based",
+          "No updates"
+        ]
+      },
+      {
+        "name": "Coggle",
+        "url": "https://coggle.it",
+        "free_tier": "3 diagrams free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Beautiful mind maps",
+        "description": "Beautiful mind map tool with real-time collaboration.",
+        "pros": [
+          "Beautiful",
+          "Simple",
+          "Collaboration"
+        ],
+        "cons": [
+          "3 diagram limit",
+          "Limited free",
+          "Pro needed"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "MindMeister Pro",
+    "paid_category": "Mind Mapping",
+    "paid_price": "$4.99/mo",
+    "alternatives": [
+      {
+        "name": "draw.io",
+        "url": "https://app.diagrams.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Free diagrams",
+        "description": "Free diagramming including mind maps.",
+        "pros": [
+          "Open source",
+          "No limits",
+          "Many shapes"
+        ],
+        "cons": [
+          "Not specialized",
+          "Dated",
+          "No collaboration"
+        ]
+      },
+      {
+        "name": "Coggle",
+        "url": "https://coggle.it",
+        "free_tier": "3 diagrams free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Beautiful maps",
+        "description": "Beautiful mind maps with 3 free diagrams.",
+        "pros": [
+          "Beautiful",
+          "Real-time collab",
+          "Simple"
+        ],
+        "cons": [
+          "3 limit",
+          "Limited free",
+          "Pro gated"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "MindNode",
+    "paid_category": "Mind Mapping",
+    "paid_price": "$9.99/mo",
+    "alternatives": [
+      {
+        "name": "draw.io",
+        "url": "https://app.diagrams.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Free alternative",
+        "description": "Free diagramming tool for mind maps.",
+        "pros": [
+          "Free",
+          "Open source",
+          "No limits"
+        ],
+        "cons": [
+          "Not specialized",
+          "Dated UI",
+          "No mobile"
+        ]
+      },
+      {
+        "name": "SimpleMind",
+        "url": "https://simplemind.app",
+        "free_tier": "Free edition",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Mobile mind maps",
+        "description": "Free mind mapping app with mobile focus.",
+        "pros": [
+          "Mobile friendly",
+          "Free edition",
+          "Simple"
+        ],
+        "cons": [
+          "Limited free",
+          "Dated UI",
+          "Desktop paid"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Ayoa Ultimate",
+    "paid_category": "Mind Mapping",
+    "paid_price": "$10/mo",
+    "alternatives": [
+      {
+        "name": "draw.io",
+        "url": "https://app.diagrams.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Free maps",
+        "description": "Free diagramming tool.",
+        "pros": [
+          "Free",
+          "No limits",
+          "Open source"
+        ],
+        "cons": [
+          "Not specialized",
+          "Dated",
+          "No collab"
+        ]
+      },
+      {
+        "name": "PlantUML",
+        "url": "https://plantuml.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Text-based diagrams",
+        "description": "Create diagrams from text descriptions.",
+        "pros": [
+          "Text-based",
+          "Version control",
+          "Open source"
+        ],
+        "cons": [
+          "Code only",
+          "No visual editor",
+          "Learning curve"
+        ]
+      },
+      {
+        "name": "Coggle",
+        "url": "https://coggle.it",
+        "free_tier": "3 diagrams free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Visual maps",
+        "description": "Beautiful visual mind maps.",
+        "pros": [
+          "Beautiful",
+          "Collab",
+          "Simple"
+        ],
+        "cons": [
+          "3 limit",
+          "Pro needed",
+          "Limited free"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Mindomo Premium",
+    "paid_category": "Mind Mapping",
+    "paid_price": "$6/mo",
+    "alternatives": [
+      {
+        "name": "draw.io",
+        "url": "https://app.diagrams.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Free diagrams",
+        "description": "Free diagramming with mind map support.",
+        "pros": [
+          "Free",
+          "Open source",
+          "No limits"
+        ],
+        "cons": [
+          "Not specialized",
+          "Dated",
+          "No collab"
+        ]
+      },
+      {
+        "name": "PlantUML",
+        "url": "https://plantuml.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Text diagrams",
+        "description": "Text-based diagram generation.",
+        "pros": [
+          "Text-based",
+          "Version control",
+          "Free"
+        ],
+        "cons": [
+          "Code only",
+          "No visual editor",
+          "Learning curve"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "ScreenFlow",
+    "paid_category": "Screen Recording",
+    "paid_price": "$149",
+    "alternatives": [
+      {
+        "name": "OBS Studio",
+        "url": "https://obsproject.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Recording",
+        "description": "Professional recording and streaming.",
+        "pros": [
+          "Pro quality",
+          "No watermark",
+          "Open source"
+        ],
+        "cons": [
+          "No editing",
+          "Learning curve",
+          "Complex"
+        ]
+      },
+      {
+        "name": "ShareX",
+        "url": "https://getsharex.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Capture",
+        "description": "Free screen capture and recording.",
+        "pros": [
+          "Packed",
+          "Open source",
+          "Free"
+        ],
+        "cons": [
+          "Windows only",
+          "Complex",
+          "No Mac"
+        ]
+      },
+      {
+        "name": "CapCut",
+        "url": "https://capcut.com",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Quick edits",
+        "description": "Record and edit with captions.",
+        "pros": [
+          "Free",
+          "Easy",
+          "Captions"
+        ],
+        "cons": [
+          "Pro locked",
+          "Cloud",
+          "Limited"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Snagit",
+    "paid_category": "Screen Capture",
+    "paid_price": "$62.99",
+    "alternatives": [
+      {
+        "name": "ShareX",
+        "url": "https://getsharex.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Capture+edit",
+        "description": "Free screen capture with editing tools.",
+        "pros": [
+          "Feature-packed",
+          "Open source",
+          "Free"
+        ],
+        "cons": [
+          "Windows only",
+          "Complex UI",
+          "Overwhelming"
+        ]
+      },
+      {
+        "name": "Flameshot",
+        "url": "https://flameshot.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Screenshot annotation",
+        "description": "Free screenshot tool with annotation.",
+        "pros": [
+          "Clean UI",
+          "Annotations",
+          "Cross-platform"
+        ],
+        "cons": [
+          "No recording",
+          "Basic editing",
+          "Limited"
+        ]
+      },
+      {
+        "name": "Greenshot",
+        "url": "https://getgreenshot.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Simple capture",
+        "description": "Simple free screenshot tool.",
+        "pros": [
+          "Simple",
+          "Free",
+          "Lightweight"
+        ],
+        "cons": [
+          "Windows only",
+          "Basic",
+          "No editing tools"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Loom Pro",
+    "paid_category": "Screen Recording",
+    "paid_price": "$8/mo",
+    "alternatives": [
+      {
+        "name": "OBS Studio",
+        "url": "https://obsproject.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Pro recording",
+        "description": "Professional recording software.",
+        "pros": [
+          "Pro quality",
+          "No watermark",
+          "Open source"
+        ],
+        "cons": [
+          "No cloud sharing",
+          "Complex",
+          "Learning curve"
+        ]
+      },
+      {
+        "name": "ScreenRec",
+        "url": "https://screenrec.com",
+        "free_tier": "Free tier",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Quick sharing",
+        "description": "Free screen recording with cloud sharing.",
+        "pros": [
+          "Cloud sharing",
+          "Simple",
+          "Free tier"
+        ],
+        "cons": [
+          "2 min limit",
+          "Limited storage",
+          "Pro gated"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "CloudApp Pro",
+    "paid_category": "Screen Capture",
+    "paid_price": "$8/mo",
+    "alternatives": [
+      {
+        "name": "ShareX",
+        "url": "https://getsharex.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Capture",
+        "description": "Free screen capture tool.",
+        "pros": [
+          "Packed",
+          "Open source",
+          "Free"
+        ],
+        "cons": [
+          "Windows only",
+          "Complex",
+          "No cloud"
+        ]
+      },
+      {
+        "name": "Flameshot",
+        "url": "https://flameshot.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Annotation",
+        "description": "Free screenshot annotation tool.",
+        "pros": [
+          "Clean",
+          "Annotations",
+          "Cross-platform"
+        ],
+        "cons": [
+          "No recording",
+          "Basic",
+          "Limited"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Harvest",
+    "paid_category": "Time Tracking",
+    "paid_price": "$11/mo",
+    "alternatives": [
+      {
+        "name": "Clockify Free",
+        "url": "https://clockify.me",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Free tracking",
+        "description": "Unlimited users time tracking for free.",
+        "pros": [
+          "Unlimited users",
+          "Free",
+          "Reports"
+        ],
+        "cons": [
+          "Limited features",
+          "No screenshots",
+          "Pro gated"
+        ]
+      },
+      {
+        "name": "ActivityWatch",
+        "url": "https://activitywatch.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Automatic",
+        "description": "Open-source automatic time tracking.",
+        "pros": [
+          "Free",
+          "Automatic",
+          "Open source"
+        ],
+        "cons": [
+          "Limited",
+          "Dated UI",
+          "No reports"
+        ]
+      },
+      {
+        "name": "Toggl Free",
+        "url": "https://toggl.com",
+        "free_tier": "5 users free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Basic",
+        "description": "5-user free time tracking.",
+        "pros": [
+          "5 users",
+          "Simple",
+          "Good UI"
+        ],
+        "cons": [
+          "Limited projects",
+          "No billable",
+          "Pro needed"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "RescueTime Premium",
+    "paid_category": "Time Tracking",
+    "paid_price": "$12/mo",
+    "alternatives": [
+      {
+        "name": "ActivityWatch",
+        "url": "https://activitywatch.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Auto tracking",
+        "description": "Open-source automatic time tracking.",
+        "pros": [
+          "Fully free",
+          "Automatic",
+          "Open source"
+        ],
+        "cons": [
+          "Limited features",
+          "Dated UI",
+          "No reports"
+        ]
+      },
+      {
+        "name": "Clockify Free",
+        "url": "https://clockify.me",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Manual tracking",
+        "description": "Free manual time tracking.",
+        "pros": [
+          "Unlimited users",
+          "Free",
+          "Reports"
+        ],
+        "cons": [
+          "No auto-tracking",
+          "Manual",
+          "Pro gated"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Timely",
+    "paid_category": "Time Tracking",
+    "paid_price": "$9/mo",
+    "alternatives": [
+      {
+        "name": "Clockify Free",
+        "url": "https://clockify.me",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Free tracking",
+        "description": "Unlimited users free time tracking.",
+        "pros": [
+          "Unlimited users",
+          "Free",
+          "Good reports"
+        ],
+        "cons": [
+          "Limited features",
+          "Manual",
+          "Pro gated"
+        ]
+      },
+      {
+        "name": "ActivityWatch",
+        "url": "https://activitywatch.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Automatic",
+        "description": "Open-source automatic time tracking.",
+        "pros": [
+          "Free",
+          "Automatic",
+          "Open source"
+        ],
+        "cons": [
+          "Limited",
+          "Dated UI",
+          "No reports"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "ManicTime Pro",
+    "paid_category": "Time Tracking",
+    "paid_price": "$67/yr",
+    "alternatives": [
+      {
+        "name": "ActivityWatch",
+        "url": "https://activitywatch.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Auto tracking",
+        "description": "Open-source automatic time tracking.",
+        "pros": [
+          "Free",
+          "Automatic",
+          "Open source"
+        ],
+        "cons": [
+          "Limited features",
+          "Dated UI",
+          "No reports"
+        ]
+      },
+      {
+        "name": "Clockify Free",
+        "url": "https://clockify.me",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Manual",
+        "description": "Free manual time tracking.",
+        "pros": [
+          "Unlimited users",
+          "Free",
+          "Reports"
+        ],
+        "cons": [
+          "No auto",
+          "Manual",
+          "Pro gated"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Paymo Premium",
+    "paid_category": "Time Tracking",
+    "paid_price": "$4.95/mo",
+    "alternatives": [
+      {
+        "name": "Clockify Free",
+        "url": "https://clockify.me",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Free tracking",
+        "description": "Unlimited users time tracking.",
+        "pros": [
+          "Unlimited users",
+          "Free",
+          "Reports"
+        ],
+        "cons": [
+          "Limited features",
+          "No screenshots",
+          "Pro gated"
+        ]
+      },
+      {
+        "name": "ActivityWatch",
+        "url": "https://activitywatch.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Automatic",
+        "description": "Open-source automatic time tracking.",
+        "pros": [
+          "Free",
+          "Automatic",
+          "Open source"
+        ],
+        "cons": [
+          "Limited",
+          "Dated UI",
+          "No reports"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "OmniFocus Pro",
+    "paid_category": "Productivity",
+    "paid_price": "$74.99",
+    "alternatives": [
+      {
+        "name": "Tasks.org",
+        "url": "https://tasks.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Task management",
+        "description": "Open-source task manager.",
+        "pros": [
+          "Free",
+          "Open source",
+          "No ads"
+        ],
+        "cons": [
+          "Android only",
+          "Dated",
+          "No web"
+        ]
+      },
+      {
+        "name": "Microsoft To Do",
+        "url": "https://todo.microsoft.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Cross-platform",
+        "description": "Free task manager from Microsoft.",
+        "pros": [
+          "Free",
+          "Cross-platform",
+          "My Day"
+        ],
+        "cons": [
+          "Limited",
+          "No NLP",
+          "MS account"
+        ]
+      },
+      {
+        "name": "Vikunja",
+        "url": "https://vikunja.io",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted",
+        "description": "Open-source task management.",
+        "pros": [
+          "Self-hosted",
+          "Open source",
+          "API"
+        ],
+        "cons": [
+          "Setup needed",
+          "Small community",
+          "Dated UI"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Things 3",
+    "paid_category": "Productivity",
+    "paid_price": "$49.99",
+    "alternatives": [
+      {
+        "name": "Tasks.org",
+        "url": "https://tasks.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Task management",
+        "description": "Open-source task manager.",
+        "pros": [
+          "Free",
+          "Open source",
+          "No ads"
+        ],
+        "cons": [
+          "Android only",
+          "Dated",
+          "No iOS"
+        ]
+      },
+      {
+        "name": "Microsoft To Do",
+        "url": "https://todo.microsoft.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Free tasks",
+        "description": "Free cross-platform task manager.",
+        "pros": [
+          "Free",
+          "Cross-platform",
+          "My Day"
+        ],
+        "cons": [
+          "Limited",
+          "No NLP",
+          "MS account"
+        ]
+      },
+      {
+        "name": "Superlist",
+        "url": "https://superlist.com",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Modern tasks",
+        "description": "Modern task manager with smart lists.",
+        "pros": [
+          "Beautiful",
+          "Smart lists",
+          "Collaboration"
+        ],
+        "cons": [
+          "New",
+          "Limited integrations",
+          "Pro gated"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "TickTick Premium",
+    "paid_category": "Productivity",
+    "paid_price": "$2.79/mo",
+    "alternatives": [
+      {
+        "name": "Tasks.org",
+        "url": "https://tasks.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Tasks",
+        "description": "Open-source task manager.",
+        "pros": [
+          "Free",
+          "No ads",
+          "Open source"
+        ],
+        "cons": [
+          "Android only",
+          "Dated",
+          "No web"
+        ]
+      },
+      {
+        "name": "Microsoft To Do",
+        "url": "https://todo.microsoft.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Free tasks",
+        "description": "Free task manager.",
+        "pros": [
+          "Free",
+          "Cross-platform",
+          "Simple"
+        ],
+        "cons": [
+          "Limited",
+          "No NLP",
+          "MS account"
+        ]
+      },
+      {
+        "name": "Vikunja",
+        "url": "https://vikunja.io",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted",
+        "description": "Open-source task management.",
+        "pros": [
+          "Self-hosted",
+          "Open source",
+          "API"
+        ],
+        "cons": [
+          "Setup",
+          "Small community",
+          "Dated"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Any.do Premium",
+    "paid_category": "Productivity",
+    "paid_price": "$5.99/mo",
+    "alternatives": [
+      {
+        "name": "Tasks.org",
+        "url": "https://tasks.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Tasks",
+        "description": "Open-source task manager.",
+        "pros": [
+          "Free",
+          "Open source",
+          "No ads"
+        ],
+        "cons": [
+          "Android only",
+          "Dated",
+          "No web"
+        ]
+      },
+      {
+        "name": "Microsoft To Do",
+        "url": "https://todo.microsoft.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Free tasks",
+        "description": "Free task manager.",
+        "pros": [
+          "Free",
+          "Cross-platform",
+          "Simple"
+        ],
+        "cons": [
+          "Limited",
+          "No NLP",
+          "MS account"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Remember The Milk Pro",
+    "paid_category": "Productivity",
+    "paid_price": "$4.99/mo",
+    "alternatives": [
+      {
+        "name": "Tasks.org",
+        "url": "https://tasks.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Task management",
+        "description": "Open-source task manager.",
+        "pros": [
+          "Free",
+          "Open source",
+          "No ads"
+        ],
+        "cons": [
+          "Android only",
+          "Dated",
+          "No web"
+        ]
+      },
+      {
+        "name": "Microsoft To Do",
+        "url": "https://todo.microsoft.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Free tasks",
+        "description": "Free task manager.",
+        "pros": [
+          "Free",
+          "Cross-platform",
+          "Simple"
+        ],
+        "cons": [
+          "Limited",
+          "No NLP",
+          "MS account"
+        ]
+      },
+      {
+        "name": "Vikunja",
+        "url": "https://vikunja.io",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted",
+        "description": "Open-source task manager.",
+        "pros": [
+          "Self-hosted",
+          "Open source",
+          "API"
+        ],
+        "cons": [
+          "Setup",
+          "Small community",
+          "Dated"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Workflowy Pro",
+    "paid_category": "Productivity",
+    "paid_price": "$4/mo",
+    "alternatives": [
+      {
+        "name": "Obsidian",
+        "url": "https://obsidian.md",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Outliner",
+        "description": "Local-first outliner with linking.",
+        "pros": [
+          "Free",
+          "Local",
+          "Linking"
+        ],
+        "cons": [
+          "No sync",
+          "Learning curve",
+          "Complex"
+        ]
+      },
+      {
+        "name": "Logseq",
+        "url": "https://logseq.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Outliner notes",
+        "description": "Privacy-first outliner with graph view.",
+        "pros": [
+          "Local-first",
+          "Graph view",
+          "Open source"
+        ],
+        "cons": [
+          "Outliner only",
+          "Learning curve",
+          "Small community"
+        ]
+      },
+      {
+        "name": "AppFlowy",
+        "url": "https://appflowy.io",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Workspace",
+        "description": "Open-source workspace.",
+        "pros": [
+          "Offline",
+          "Open source",
+          "Data control"
+        ],
+        "cons": [
+          "Less polished",
+          "Desktop",
+          "Fewer templates"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Obsidian Sync",
+    "paid_category": "Productivity",
+    "paid_price": "$4/mo",
+    "alternatives": [
+      {
+        "name": "Git + Obsidian",
+        "url": "https://git-scm.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "DIY sync",
+        "description": "Sync Obsidian vault with Git for free.",
+        "pros": [
+          "Free sync",
+          "Version control",
+          "Full control"
+        ],
+        "cons": [
+          "Technical",
+          "Setup needed",
+          "Manual"
+        ]
+      },
+      {
+        "name": "Syncthing",
+        "url": "https://syncthing.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "P2P sync",
+        "description": "Peer-to-peer file sync.",
+        "pros": [
+          "No cloud",
+          "Open source",
+          "Encrypted"
+        ],
+        "cons": [
+          "Setup",
+          "Both devices on",
+          "No web interface"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Microsoft Teams Premium",
+    "paid_category": "Communication",
+    "paid_price": "$4/mo",
+    "alternatives": [
+      {
+        "name": "Element",
+        "url": "https://element.io",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Decentralized chat",
+        "description": "Matrix-based secure messaging.",
+        "pros": [
+          "End-to-end encrypted",
+          "Decentralized",
+          "No server needed"
+        ],
+        "cons": [
+          "Complex setup",
+          "Small user base",
+          "Dated UI"
+        ]
+      },
+      {
+        "name": "Rocket.Chat",
+        "url": "https://rocket.chat",
+        "free_tier": "1000 msgs free",
+        "license": "Open Source",
+        "has_affiliate": true,
+        "best_for": "Team chat",
+        "description": "Open-source team chat.",
+        "pros": [
+          "Open source",
+          "Omnichannel",
+          "Self-hostable"
+        ],
+        "cons": [
+          "1000 msg limit",
+          "Setup",
+          "Resource heavy"
+        ]
+      },
+      {
+        "name": "Mattermost",
+        "url": "https://mattermost.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted Slack",
+        "description": "Open-source team chat.",
+        "pros": [
+          "Unlimited users",
+          "Self-hosted",
+          "Slack-like"
+        ],
+        "cons": [
+          "Self-hosting",
+          "Dated UI",
+          "Setup"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Slack Business+",
+    "paid_category": "Communication",
+    "paid_price": "$12.50/mo",
+    "alternatives": [
+      {
+        "name": "Mattermost",
+        "url": "https://mattermost.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted chat",
+        "description": "Open-source team chat.",
+        "pros": [
+          "Unlimited users",
+          "Self-hosted",
+          "Slack-like"
+        ],
+        "cons": [
+          "Self-hosting",
+          "Dated UI",
+          "Setup"
+        ]
+      },
+      {
+        "name": "Rocket.Chat",
+        "url": "https://rocket.chat",
+        "free_tier": "1000 msgs free",
+        "license": "Open Source",
+        "has_affiliate": true,
+        "best_for": "Team chat",
+        "description": "Open-source communication platform.",
+        "pros": [
+          "Open source",
+          "Omnichannel",
+          "Self-hostable"
+        ],
+        "cons": [
+          "1000 msg limit",
+          "Setup",
+          "Resource heavy"
+        ]
+      },
+      {
+        "name": "Element",
+        "url": "https://element.io",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Encrypted chat",
+        "description": "Matrix-based encrypted messaging.",
+        "pros": [
+          "End-to-end encrypted",
+          "Decentralized",
+          "Federation"
+        ],
+        "cons": [
+          "Complex setup",
+          "Small user base",
+          "Dated UI"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Discord Nitro",
+    "paid_category": "Communication",
+    "paid_price": "$9.99/mo",
+    "alternatives": [
+      {
+        "name": "Revolt",
+        "url": "https://revolt.chat",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Open Discord",
+        "description": "Open-source Discord alternative.",
+        "pros": [
+          "Open source",
+          "Self-hostable",
+          "No ads"
+        ],
+        "cons": [
+          "Small community",
+          "Fewer servers",
+          "Less features"
+        ]
+      },
+      {
+        "name": "Element",
+        "url": "https://element.io",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Secure chat",
+        "description": "Matrix-based messaging.",
+        "pros": [
+          "Encrypted",
+          "Decentralized",
+          "Open source"
+        ],
+        "cons": [
+          "Complex setup",
+          "Small user base",
+          "Different paradigm"
+        ]
+      },
+      {
+        "name": "Guilded",
+        "url": "https://guilded.gg",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Gaming communities",
+        "description": "Free gaming community platform with voice and text.",
+        "pros": [
+          "Free",
+          "Voice chat",
+          "No nitro needed"
+        ],
+        "cons": [
+          "Gaming focused",
+          "Smaller user base",
+          "Microsoft owned"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Telegram Premium",
+    "paid_category": "Communication",
+    "paid_price": "$4.99/mo",
+    "alternatives": [
+      {
+        "name": "Signal",
+        "url": "https://signal.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Private messaging",
+        "description": "Privacy-focused encrypted messaging.",
+        "pros": [
+          "End-to-end encrypted",
+          "Open source",
+          "No ads"
+        ],
+        "cons": [
+          "Phone number required",
+          "Small groups",
+          "No channels"
+        ]
+      },
+      {
+        "name": "Element",
+        "url": "https://element.io",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Decentralized",
+        "description": "Matrix-based messaging.",
+        "pros": [
+          "Encrypted",
+          "Decentralized",
+          "Federation"
+        ],
+        "cons": [
+          "Complex",
+          "Small user base",
+          "Dated UI"
+        ]
+      },
+      {
+        "name": "Session",
+        "url": "https://getsession.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Anonymous",
+        "description": "Privacy-first messenger with no phone number needed.",
+        "pros": [
+          "No phone needed",
+          "Onion routing",
+          "Open source"
+        ],
+        "cons": [
+          "Small user base",
+          "Slower",
+          "Limited features"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "GoToMeeting",
+    "paid_category": "Video Conferencing",
+    "paid_price": "$12/mo",
+    "alternatives": [
+      {
+        "name": "Jitsi Meet",
+        "url": "https://jitsi.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Free calls",
+        "description": "Open-source video conferencing.",
+        "pros": [
+          "No time limits",
+          "No account",
+          "Self-hostable"
+        ],
+        "cons": [
+          "Quality varies",
+          "Limited features",
+          "No recordings"
+        ]
+      },
+      {
+        "name": "Google Meet",
+        "url": "https://meet.google.com",
+        "free_tier": "60 min free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Quick meetings",
+        "description": "Free 60-minute video calls.",
+        "pros": [
+          "No install",
+          "100 participants",
+          "Google integration"
+        ],
+        "cons": [
+          "60 min limit",
+          "Google account",
+          "Limited"
+        ]
+      },
+      {
+        "name": "Whereby",
+        "url": "https://whereby.com",
+        "free_tier": "45 min free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Browser meetings",
+        "description": "Browser-based video meetings.",
+        "pros": [
+          "No download",
+          "Simple",
+          "100 participants"
+        ],
+        "cons": [
+          "45 min",
+          "Limited",
+          "Pro gated"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "GoToWebinar",
+    "paid_category": "Video Conferencing",
+    "paid_price": "$49/mo",
+    "alternatives": [
+      {
+        "name": "Jitsi Meet",
+        "url": "https://jitsi.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Free video",
+        "description": "Open-source video conferencing.",
+        "pros": [
+          "No limits",
+          "No account",
+          "Self-hostable"
+        ],
+        "cons": [
+          "No webinar features",
+          "Quality varies",
+          "Setup"
+        ]
+      },
+      {
+        "name": "BigBlueButton",
+        "url": "https://bigbluebutton.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Education webinars",
+        "description": "Open-source web conferencing for education.",
+        "pros": [
+          "Education focused",
+          "Open source",
+          "Whiteboard"
+        ],
+        "cons": [
+          "Setup complexity",
+          "Resource heavy",
+          "Not for general use"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Webex Meetings",
+    "paid_category": "Video Conferencing",
+    "paid_price": "$14.50/mo",
+    "alternatives": [
+      {
+        "name": "Jitsi Meet",
+        "url": "https://jitsi.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Free meetings",
+        "description": "Open-source video conferencing.",
+        "pros": [
+          "No time limits",
+          "No account",
+          "Self-hostable"
+        ],
+        "cons": [
+          "Quality varies",
+          "Limited",
+          "No recordings"
+        ]
+      },
+      {
+        "name": "Google Meet",
+        "url": "https://meet.google.com",
+        "free_tier": "60 min free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Quick calls",
+        "description": "60-min free video calls.",
+        "pros": [
+          "No install",
+          "100 ppl",
+          "Google integration"
+        ],
+        "cons": [
+          "60 min",
+          "Google account",
+          "Limited"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "Zoom Workplace",
+    "paid_category": "Video Conferencing",
+    "paid_price": "$13.66/mo",
+    "alternatives": [
+      {
+        "name": "Jitsi Meet",
+        "url": "https://jitsi.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Free unlimited",
+        "description": "Open-source video calls.",
+        "pros": [
+          "No time limits",
+          "No account",
+          "Self-hostable"
+        ],
+        "cons": [
+          "Quality depends",
+          "Limited",
+          "No recordings"
+        ]
+      },
+      {
+        "name": "Google Meet",
+        "url": "https://meet.google.com",
+        "free_tier": "60 min free",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Quick meetings",
+        "description": "60-min free video calls.",
+        "pros": [
+          "No install",
+          "100 ppl",
+          "Google"
+        ],
+        "cons": [
+          "60 min",
+          "Account needed",
+          "Limited"
+        ]
+      },
+      {
+        "name": "Whereby",
+        "url": "https://whereby.com",
+        "free_tier": "45 min free",
+        "license": "Freemium",
+        "has_affiliate": true,
+        "best_for": "Browser calls",
+        "description": "Browser-based meetings.",
+        "pros": [
+          "No download",
+          "Simple",
+          "100 ppl"
+        ],
+        "cons": [
+          "45 min",
+          "Limited",
+          "Pro gated"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "TeamViewer Business",
+    "paid_category": "Remote Desktop",
+    "paid_price": "$24.90/mo",
+    "alternatives": [
+      {
+        "name": "RustDesk",
+        "url": "https://rustdesk.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Open-source remote",
+        "description": "Self-hostable remote desktop.",
+        "pros": [
+          "Open source",
+          "Self-hostable",
+          "No account"
+        ],
+        "cons": [
+          "Self-hosting",
+          "Small community",
+          "Setup"
+        ]
+      },
+      {
+        "name": "Chrome Remote Desktop",
+        "url": "https://remotedesktop.google.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Simple remote",
+        "description": "Google's free remote desktop.",
+        "pros": [
+          "Free",
+          "Simple",
+          "Google account"
+        ],
+        "cons": [
+          "Chrome only",
+          "Limited features",
+          "No file transfer"
+        ]
+      },
+      {
+        "name": "AnyDesk",
+        "url": "https://anydesk.com",
+        "free_tier": "Free for personal",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Fast personal",
+        "description": "Fast remote desktop for personal use.",
+        "pros": [
+          "Very fast",
+          "Low latency",
+          "Cross-platform"
+        ],
+        "cons": [
+          "Personal only",
+          "Commercial paid",
+          "Session limits"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "AnyDesk Pro",
+    "paid_category": "Remote Desktop",
+    "paid_price": "$23.90/mo",
+    "alternatives": [
+      {
+        "name": "RustDesk",
+        "url": "https://rustdesk.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted",
+        "description": "Open-source remote desktop.",
+        "pros": [
+          "Open source",
+          "Self-hostable",
+          "No account"
+        ],
+        "cons": [
+          "Self-hosting",
+          "Small community",
+          "Setup"
+        ]
+      },
+      {
+        "name": "Chrome Remote Desktop",
+        "url": "https://remotedesktop.google.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Simple",
+        "description": "Free remote desktop from Google.",
+        "pros": [
+          "Free",
+          "Simple",
+          "No install"
+        ],
+        "cons": [
+          "Chrome only",
+          "Limited",
+          "No file transfer"
+        ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "LogMeIn Pro",
+    "paid_category": "Remote Desktop",
+    "paid_price": "$30/mo",
+    "alternatives": [
+      {
+        "name": "RustDesk",
+        "url": "https://rustdesk.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "has_affiliate": false,
+        "best_for": "Self-hosted",
+        "description": "Open-source remote desktop.",
+        "pros": [
+          "Open source",
+          "Self-hostable",
+          "No account"
+        ],
+        "cons": [
+          "Self-hosting",
+          "Small community",
+          "Setup"
+        ]
+      },
+      {
+        "name": "Chrome Remote Desktop",
+        "url": "https://remotedesktop.google.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "has_affiliate": false,
+        "best_for": "Free remote",
+        "description": "Free remote desktop.",
+        "pros": [
+          "Free",
+          "Simple",
+          "Google integration"
+        ],
+        "cons": [
+          "Chrome only",
+          "Limited features",
+          "No file transfer"
+        ]
+      },
+      {
+        "name": "AnyDesk",
+        "url": "https://anydesk.com",
+        "free_tier": "Free for personal",
+        "license": "Freemium",
+        "has_affiliate": false,
+        "best_for": "Fast remote",
+        "description": "Fast remote desktop.",
+        "pros": [
+          "Fast",
+          "Low latency",
+          "Cross-platform"
+        ],
+        "cons": [
+          "Personal only",
+          "Commercial paid",
+          "Limits"
+        ]
+      }
+    ]
   }
 ]
