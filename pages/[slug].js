@@ -14,8 +14,7 @@ export async function getStaticProps({ params }) {
     d => d.paid_tool.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') === params.slug
   );
   if (!item) return { notFound: true };
-  
-  // Find related tools (same category)
+
   const related = data
     .filter(d => d.paid_category === item.paid_category && d.paid_tool !== item.paid_tool)
     .slice(0, 4);
@@ -23,14 +22,20 @@ export async function getStaticProps({ params }) {
   return { props: { item, related } };
 }
 
+function getLicenseTag(license) {
+  if (license === 'Open Source') return 'tag-open';
+  if (license === 'Freemium') return 'tag-freemium';
+  return 'tag-free';
+}
+
 export default function ToolPage({ item, related }) {
   const slug = item.paid_tool.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-  
+
   return (
     <>
       <Head>
         <title>{`Free Alternatives to ${item.paid_tool} in 2026 — ${item.alternatives.length} Free Options`}</title>
-        <meta name="description" content={`The best free alternatives to ${item.paid_tool} (${item.paid_price}). Compare features, pros, cons, and find the right free replacement.`} />
+        <meta name="description" content={`Best free alternatives to ${item.paid_tool} (${item.paid_price}). Compare features, pros, cons, and find the right free replacement.`} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="canonical" href={`https://freealt.vercel.app/${slug}/`} />
         <meta property="og:title" content={`Free Alternatives to ${item.paid_tool}`} />
@@ -66,59 +71,76 @@ export default function ToolPage({ item, related }) {
         }} />
       </Head>
 
-      <div className="container">
-        <header>
-          <Link href="/"><h1>FreeAlt</h1></Link>
-        </header>
-
-        <nav className="breadcrumb">
-          <Link href="/">Home</Link> / <span>{item.paid_category}</span> / <span>{item.paid_tool}</span>
-        </nav>
-
-        <div className="tool-header">
-          <h1>Free Alternatives to {item.paid_tool}</h1>
-          <div className="price-tag">
-            <span className="old-price">{item.paid_tool} costs {item.paid_price}</span>
-            <span className="new-price">These are free</span>
+      {/* Navbar */}
+      <nav className="navbar">
+        <div className="navbar-inner">
+          <Link href="/" className="navbar-logo">
+            <span className="dot"></span>
+            FreeAlt
+          </Link>
+          <div className="navbar-links">
+            <Link href="/">Browse All</Link>
           </div>
-          <p className="category-tag">{item.paid_category}</p>
+        </div>
+      </nav>
+
+      <div className="container">
+        {/* Breadcrumb */}
+        <div className="breadcrumb">
+          <Link href="/">Home</Link>
+          <span className="sep">/</span>
+          <span>{item.paid_category}</span>
+          <span className="sep">/</span>
+          <span>{item.paid_tool}</span>
         </div>
 
-        <p className="intro">
-          Looking for a free alternative to {item.paid_tool}? You're in the right place.
-          Below are {item.alternatives.length} genuinely free options — no trials, no watermarks,
-          no credit card required. Each one is compared so you can pick the best replacement.
-        </p>
+        {/* Hero */}
+        <div className="tool-hero">
+          <h1>Free Alternatives to {item.paid_tool}</h1>
+          <div className="tool-meta">
+            <span className="tool-price-badge">{item.paid_tool} — {item.paid_price}</span>
+            <span className="tool-cat-badge">{item.paid_category}</span>
+          </div>
+          <p className="tool-intro">
+            Looking for a free alternative to {item.paid_tool}? Below are {item.alternatives.length} genuinely free options
+            — no trials, no watermarks, no credit card required. Each one is compared so you can pick the right replacement.
+          </p>
+        </div>
 
-        <div className="alternatives-list">
+        {/* Alternatives */}
+        <div className="alt-list">
           {item.alternatives.map((alt, i) => (
-            <div className="alt-card" key={i} id={alt.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}>
-              <div className="alt-card-header">
+            <div className="alt-item" key={i} id={alt.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}>
+              <div className="alt-item-head">
                 <div>
                   <h2>{i + 1}. {alt.name}</h2>
-                  <div className="alt-meta">
-                    <span className="badge {alt.license === 'Open Source' ? 'badge-green' : 'badge-blue'}">{alt.license}</span>
-                    <span className="badge badge-free">{alt.free_tier}</span>
+                  <div className="alt-badges">
+                    <span className={`tag ${getLicenseTag(alt.license)}`}>{alt.license}</span>
+                    <span className="tag tag-free">{alt.free_tier}</span>
                   </div>
                 </div>
-                <a href={alt.url} target="_blank" rel="noopener noreferrer nofollow" className="visit-btn">
-                  Visit Site →
+                <a href={alt.url} target="_blank" rel="noopener noreferrer nofollow" className="visit-link">
+                  Visit →
                 </a>
               </div>
 
-              <p className="alt-description">{alt.description}</p>
+              <p className="alt-desc">{alt.description}</p>
 
-              <div className="pros-cons">
-                <div className="pros">
-                  <h3>✓ Pros</h3>
+              <div className="pc-grid">
+                <div className="pc-col pros">
+                  <h3>Pros</h3>
                   <ul>
-                    {alt.pros.map((pro, j) => <li key={j}>{pro}</li>)}
+                    {alt.pros.map((pro, j) => (
+                      <li key={j}><span className="icon">+</span> {pro}</li>
+                    ))}
                   </ul>
                 </div>
-                <div className="cons">
-                  <h3>✗ Cons</h3>
+                <div className="pc-col cons">
+                  <h3>Cons</h3>
                   <ul>
-                    {alt.cons.map((con, k) => <li key={k}>{con}</li>)}
+                    {alt.cons.map((con, k) => (
+                      <li key={k}><span className="icon">−</span> {con}</li>
+                    ))}
                   </ul>
                 </div>
               </div>
@@ -126,8 +148,9 @@ export default function ToolPage({ item, related }) {
           ))}
         </div>
 
+        {/* Related */}
         {related.length > 0 && (
-          <div className="related">
+          <section className="related-section">
             <h2>Related Free Alternatives</h2>
             <div className="related-grid">
               {related.map((rel, i) => {
@@ -137,19 +160,27 @@ export default function ToolPage({ item, related }) {
                     <div className="related-card">
                       <h3>{rel.paid_tool}</h3>
                       <span className="price">{rel.paid_price}</span>
-                      <p>{rel.alternatives[0].name} + {rel.alternatives.length - 1} more</p>
+                      <p className="alt-hint">{rel.alternatives[0].name} + {rel.alternatives.length - 1} more</p>
                     </div>
                   </Link>
                 );
               })}
             </div>
-          </div>
+          </section>
         )}
 
-        <footer>
-          <Link href="/">← Back to all tools</Link>
-        </footer>
+        {/* Back */}
+        <div style={{ padding: '20px 0 60px' }}>
+          <Link href="/" className="back-link">← Back to all tools</Link>
+        </div>
       </div>
+
+      <footer className="footer">
+        <div className="container">
+          <p>FreeAlt — Every tool has a genuinely free alternative. No tricks, no trials.</p>
+          <p><a href="https://github.com/ethansaiagent-dot/freealt">Open Source</a> · Updated weekly</p>
+        </div>
+      </footer>
     </>
   );
 }
