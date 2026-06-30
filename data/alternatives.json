@@ -779,7 +779,7 @@
         "license": "Open Source",
         "description": "Run ChatGPT-level models locally on your machine. No internet, no subscription, no data leaving your computer. Uses open models like Llama 3, Qwen, and Mistral.",
         "pros": [
-          "Complete privacy \u2014 runs on your hardware",
+          "Complete privacy — runs on your hardware",
           "No usage limits ever",
           "Works offline once downloaded",
           "Multiple models in one interface"
@@ -799,7 +799,7 @@
         "license": "Freemium",
         "description": "Blazing fast inference of open models (Llama 3.3 70B, Mixtral) on custom LPU hardware. Free API with generous limits. Faster than ChatGPT for most tasks.",
         "pros": [
-          "Extremely fast \u2014 500+ tokens/sec",
+          "Extremely fast — 500+ tokens/sec",
           "Free API access",
           "Open models (not proprietary)",
           "Good for developers"
@@ -2364,7 +2364,7 @@
         "license": "Freemium",
         "has_affiliate": true,
         "best_for": "Digital products + courses",
-        "description": "Sell courses, ebooks, and digital products. No monthly fee \u2014 just 10% per sale.",
+        "description": "Sell courses, ebooks, and digital products. No monthly fee — just 10% per sale.",
         "pros": [
           "No monthly fee",
           "Sell anything digital",
@@ -3153,7 +3153,7 @@
         "license": "Freemium",
         "has_affiliate": false,
         "best_for": "Collaboration",
-        "description": "Docs, Sheets, Slides, Drive \u2014 replaces Word, Excel, PowerPoint entirely.",
+        "description": "Docs, Sheets, Slides, Drive — replaces Word, Excel, PowerPoint entirely.",
         "pros": [
           "Real-time collaboration",
           "Auto-save",
@@ -10315,6 +10315,1862 @@
           "Commercial paid",
           "Limits"
         ]
+      }
+    ]
+  },
+  {
+    "paid_tool": "AutoCAD",
+    "paid_category": "CAD Software",
+    "paid_price": "$235/mo",
+    "alternatives": [
+      {
+        "name": "LibreCAD",
+        "url": "https://librecad.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Lightweight 2D CAD application for drafting. Reads and writes DXF files and supports layers, blocks, and dimensions.",
+        "pros": [
+          "Truly free 2D drafting",
+          "Lightweight and fast",
+          "Cross-platform"
+        ],
+        "cons": [
+          "2D only — no 3D modeling",
+          "Dated interface",
+          "Limited DWG support"
+        ],
+        "best_for": "2D technical drafting",
+        "has_affiliate": false
+      },
+      {
+        "name": "FreeCAD",
+        "url": "https://freecad.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Parametric 3D CAD modeler with a modular architecture. Supports STEP, IGES, STL, and BIM workbenches.",
+        "pros": [
+          "Parametric 3D modeling",
+          "Opens STEP/IGES/STL",
+          "Active community and add-ons"
+        ],
+        "cons": [
+          "Steep learning curve",
+          "Inconsistent UI across workbenches",
+          "Slower than commercial CAD"
+        ],
+        "best_for": "3D parametric modeling",
+        "has_affiliate": false
+      },
+      {
+        "name": "QCAD",
+        "url": "https://qcad.org",
+        "free_tier": "Community edition free",
+        "license": "Open Source",
+        "description": "2D CAD application for technical drawing. The GPL community edition is free; professional adds DXF/DWG extras.",
+        "pros": [
+          "Easy to learn 2D CAD",
+          "Good DXF support",
+          "Scripting via ECMAScript"
+        ],
+        "cons": [
+          "2D only",
+          "Pro features are paid",
+          "Dated look"
+        ],
+        "best_for": "Simple 2D drawings",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Revit",
+    "paid_category": "BIM / Architecture",
+    "paid_price": "$311/mo",
+    "alternatives": [
+      {
+        "name": "FreeCAD (BIM Workbench)",
+        "url": "https://freecad.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "FreeCAD's BIM workbench offers IFC-based building modeling and is actively developed with the OpenArch initiative.",
+        "pros": [
+          "Native IFC support",
+          "Parametric objects",
+          "Completely free"
+        ],
+        "cons": [
+          "Not a full Revit replacement",
+          "Steep learning curve",
+          "Limited documentation"
+        ],
+        "best_for": "Open-source BIM modeling",
+        "has_affiliate": false
+      },
+      {
+        "name": "BlenderBIM",
+        "url": "https://ifcopenshell.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Built on IfcOpenShell, BlenderBIM is a native IFC authoring tool that edits BIM models directly in the open IFC format.",
+        "pros": [
+          "True native IFC editing",
+          "Open standards based",
+          "Growing community"
+        ],
+        "cons": [
+          "Complex to set up",
+          "Niche audience",
+          "Limited learning resources"
+        ],
+        "best_for": "IFC-native BIM authoring",
+        "has_affiliate": false
+      },
+      {
+        "name": "Sweet Home 3D",
+        "url": "https://sweethome3d.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Interior design application for drawing house plans and arranging furniture in 2D/3D.",
+        "pros": [
+          "Very easy to use",
+          "3D preview in real time",
+          "Importable furniture library"
+        ],
+        "cons": [
+          "Not a professional BIM tool",
+          "Limited structural modeling",
+          "Basic output"
+        ],
+        "best_for": "Home interior design",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "SolidWorks",
+    "paid_category": "3D CAD",
+    "paid_price": "$4,000+",
+    "alternatives": [
+      {
+        "name": "FreeCAD",
+        "url": "https://freecad.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Parametric 3D modeler with a Part Design workbench that mimics feature-based solid modeling workflows.",
+        "pros": [
+          "Feature-based parametric modeling",
+          "STEP/IGES import-export",
+          "Extensible via Python"
+        ],
+        "cons": [
+          "Less polished than SolidWorks",
+          "Slower on complex assemblies",
+          "Learning curve"
+        ],
+        "best_for": "Parametric solid modeling",
+        "has_affiliate": false
+      },
+      {
+        "name": "Onshape",
+        "url": "https://onshape.com",
+        "free_tier": "Free personal plan",
+        "license": "Freemium",
+        "description": "Cloud-native CAD system from former SolidWorks engineers. The free plan makes all documents public.",
+        "pros": [
+          "Runs in browser",
+          "Real-time collaboration",
+          "Modern cloud CAD"
+        ],
+        "cons": [
+          "Free documents are public",
+          "Requires internet",
+          "Limited version history on free"
+        ],
+        "best_for": "Cloud-based collaborative CAD",
+        "has_affiliate": true
+      },
+      {
+        "name": "SolveSpace",
+        "url": "https://solvespace.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Lightweight parametric 3D CAD tool for solid modeling, sketching, and assemblies.",
+        "pros": [
+          "Tiny and portable",
+          "Parametric constraints",
+          "No account needed"
+        ],
+        "cons": [
+          "Limited features",
+          "Basic UI",
+          "Small community"
+        ],
+        "best_for": "Lightweight parametric modeling",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Bloomberg Terminal",
+    "paid_category": "Financial Data",
+    "paid_price": "~$24,000/yr",
+    "alternatives": [
+      {
+        "name": "TradingView",
+        "url": "https://tradingview.com",
+        "free_tier": "Free plan available",
+        "license": "Freemium",
+        "description": "Web-based charting platform with real-time data, indicators, and a large community of shared ideas.",
+        "pros": [
+          "Excellent interactive charts",
+          "Huge indicator library",
+          "Active community"
+        ],
+        "cons": [
+          "Limited indicators on free",
+          "Ads on free tier",
+          "Delayed data on some exchanges"
+        ],
+        "best_for": "Charting and technical analysis",
+        "has_affiliate": true
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "description": "Free quotes, portfolio tracking, news, and basic charting for stocks, ETFs, and crypto.",
+        "pros": [
+          "Completely free",
+          "Broad market coverage",
+          "News and fundamentals"
+        ],
+        "cons": [
+          "No real-time depth",
+          "Basic charts",
+          "Ad-supported"
+        ],
+        "best_for": "Quick market quotes and news",
+        "has_affiliate": false
+      },
+      {
+        "name": "Finviz",
+        "url": "https://finviz.com",
+        "free_tier": "Free tier available",
+        "license": "Freemium",
+        "description": "Powerful stock screener with heatmaps, charts, and news aggregation. Elite tier adds real-time data.",
+        "pros": [
+          "Strong stock screener",
+          "Visual market heatmaps",
+          "Fast"
+        ],
+        "cons": [
+          "Real-time data is paid",
+          "Limited chart tools on free",
+          "US markets focus"
+        ],
+        "best_for": "Stock screening",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Duolingo",
+    "paid_category": "Language Learning",
+    "paid_price": "$6.99/mo",
+    "alternatives": [
+      {
+        "name": "Memrise",
+        "url": "https://memrise.com",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "description": "Vocabulary-focused language app using spaced repetition and native-speaker video clips.",
+        "pros": [
+          "Native-speaker videos",
+          "Spaced repetition",
+          "Good vocabulary depth"
+        ],
+        "cons": [
+          "Pro needed for full features",
+          "Less grammar focus",
+          "Ads on free"
+        ],
+        "best_for": "Vocabulary building",
+        "has_affiliate": false
+      },
+      {
+        "name": "Clozemaster",
+        "url": "https://clozemaster.com",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "description": "Learn languages through cloze (fill-in-the-blank) sentences in context, ideal for post-beginner learners.",
+        "pros": [
+          "Learn in context",
+          "Great for intermediate learners",
+          "Many languages"
+        ],
+        "cons": [
+          "Pro for unlimited play",
+          "Basic UI",
+          "Not for absolute beginners"
+        ],
+        "best_for": "Intermediate sentence practice",
+        "has_affiliate": false
+      },
+      {
+        "name": "Anki",
+        "url": "https://apps.ankiweb.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Spaced-repetition flashcard app with huge shared language decks. Desktop and web fully free.",
+        "pros": [
+          "Powerful spaced repetition",
+          "Massive shared decks",
+          "Highly customizable"
+        ],
+        "cons": [
+          "Steep learning curve",
+          "Dated UI",
+          "iOS app is paid"
+        ],
+        "best_for": "Serious vocabulary memorization",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Lucidchart",
+    "paid_category": "Diagramming",
+    "paid_price": "$7.99/mo",
+    "alternatives": [
+      {
+        "name": "Draw.io (diagrams.net)",
+        "url": "https://app.diagrams.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Free online and offline diagramming tool. Supports flowcharts, UML, network diagrams, and VS Code integration.",
+        "pros": [
+          "Completely free with no limits",
+          "Works offline",
+          "Integrates with Google Drive and GitHub"
+        ],
+        "cons": [
+          "Less polished than Lucidchart",
+          "No real-time multi-user on free",
+          "Basic templates"
+        ],
+        "best_for": "Free flowcharts and diagrams",
+        "has_affiliate": false
+      },
+      {
+        "name": "Excalidraw",
+        "url": "https://excalidraw.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Hand-drawn style diagramming tool with real-time collaboration and an infinite canvas.",
+        "pros": [
+          "Live collaboration",
+          "Sketchy hand-drawn aesthetic",
+          "No account needed"
+        ],
+        "cons": [
+          "No formal diagram standards",
+          "Limited shape library",
+          "Not for precise schematics"
+        ],
+        "best_for": "Whiteboard-style sketching",
+        "has_affiliate": false
+      },
+      {
+        "name": "Mermaid",
+        "url": "https://mermaid.js.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Text-based diagramming that renders flowcharts, sequence diagrams, and Gantt charts from Markdown-like syntax.",
+        "pros": [
+          "Diagrams as code",
+          "Great for docs and READMEs",
+          "Version-controllable"
+        ],
+        "cons": [
+          "No drag-and-drop UI",
+          "Learning the syntax",
+          "Limited styling"
+        ],
+        "best_for": "Diagrams in documentation",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Visio",
+    "paid_category": "Diagramming",
+    "paid_price": "$15/mo",
+    "alternatives": [
+      {
+        "name": "Draw.io (diagrams.net)",
+        "url": "https://app.diagrams.net",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Free diagram editor that opens and exports Visio .vsdx files for flowcharts, network maps, and org charts.",
+        "pros": [
+          "Opens Visio .vsdx files",
+          "Free with no account",
+          "Broad shape libraries"
+        ],
+        "cons": [
+          "Less smooth than Visio",
+          "No native real-time collaboration",
+          "Basic layout tools"
+        ],
+        "best_for": "Free Visio file editing",
+        "has_affiliate": false
+      },
+      {
+        "name": "LibreOffice Draw",
+        "url": "https://libreoffice.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Desktop drawing and flowchart application included with LibreOffice. Opens and exports Visio formats.",
+        "pros": [
+          "Full offline use",
+          "Opens Visio files",
+          "Part of free office suite"
+        ],
+        "cons": [
+          "Dated interface",
+          "Less precise connectors",
+          "No cloud sync"
+        ],
+        "best_for": "Offline diagramming",
+        "has_affiliate": false
+      },
+      {
+        "name": "yEd Graph Editor",
+        "url": "https://yworks.com/products/yed",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "description": "Desktop application for creating high-quality diagrams with powerful automatic graph layout algorithms.",
+        "pros": [
+          "Excellent auto-layout",
+          "Handles large graphs",
+          "No account needed"
+        ],
+        "cons": [
+          "Java desktop app",
+          "No real-time collaboration",
+          "Dated UI"
+        ],
+        "best_for": "Large automatic graph layouts",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Bitly",
+    "paid_category": "URL Shortener",
+    "paid_price": "$8/mo",
+    "alternatives": [
+      {
+        "name": "Dub",
+        "url": "https://dub.co",
+        "free_tier": "Free plan available",
+        "license": "Open Source",
+        "description": "Open-source link management platform with analytics, custom domains, and QR codes. Self-host for free.",
+        "pros": [
+          "Open source and self-hostable",
+          "Custom domains on free",
+          "Built-in analytics"
+        ],
+        "cons": [
+          "Self-hosting needs setup",
+          "Smaller community",
+          "Cloud free plan limited"
+        ],
+        "best_for": "Self-hosted link management",
+        "has_affiliate": true
+      },
+      {
+        "name": "Kutt",
+        "url": "https://kutt.it",
+        "free_tier": "Self-host free",
+        "license": "Open Source",
+        "description": "Modern open-source URL shortener with custom domains, tags, stats, and a public API.",
+        "pros": [
+          "Self-hostable",
+          "Clean modern UI",
+          "API and integrations"
+        ],
+        "cons": [
+          "Self-hosting required for free",
+          "No enterprise features",
+          "Smaller ecosystem"
+        ],
+        "best_for": "Self-hosted short links",
+        "has_affiliate": false
+      },
+      {
+        "name": "is.gd",
+        "url": "https://is.gd",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "description": "Simple, no-frills URL shortener with no account, no ads, and a public API for custom links.",
+        "pros": [
+          "No account needed",
+          "Fast and ad-free",
+          "Public API"
+        ],
+        "cons": [
+          "No analytics dashboard",
+          "No custom domains",
+          "No link management"
+        ],
+        "best_for": "Quick one-off short links",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "ZoomInfo",
+    "paid_category": "B2B Data / Sales Intelligence",
+    "paid_price": "~$14,000/yr",
+    "alternatives": [
+      {
+        "name": "Apollo.io",
+        "url": "https://apollo.io",
+        "free_tier": "Free plan available",
+        "license": "Freemium",
+        "description": "Sales engagement and B2B contact database with email sequences, enrichment, and a sizeable free plan.",
+        "pros": [
+          "Generous free plan",
+          "Email + data in one tool",
+          "Chrome extension"
+        ],
+        "cons": [
+          "Credit limits on free",
+          "Data can be outdated",
+          "Email deliverability varies"
+        ],
+        "best_for": "Outbound sales prospecting",
+        "has_affiliate": true
+      },
+      {
+        "name": "Hunter.io",
+        "url": "https://hunter.io",
+        "free_tier": "25 searches/mo free",
+        "license": "Freemium",
+        "description": "Finds professional email addresses from a company domain and verifies them.",
+        "pros": [
+          "Accurate email finder",
+          "Email verification",
+          "Clean API"
+        ],
+        "cons": [
+          "Limited free searches",
+          "No phone numbers",
+          "Contact-only, no full intent data"
+        ],
+        "best_for": "Finding professional emails",
+        "has_affiliate": true
+      },
+      {
+        "name": "Lusha",
+        "url": "https://lusha.com",
+        "free_tier": "5 credits/mo free",
+        "license": "Freemium",
+        "description": "B2B contact database providing direct dials and emails with browser and CRM integrations.",
+        "pros": [
+          "Direct phone numbers",
+          "CRM integrations",
+          "Easy Chrome extension"
+        ],
+        "cons": [
+          "Very limited free credits",
+          "Credit-based pricing",
+          "Data accuracy varies"
+        ],
+        "best_for": "Direct phone number lookup",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Zapier",
+    "paid_category": "Workflow Automation",
+    "paid_price": "$19.99/mo",
+    "alternatives": [
+      {
+        "name": "n8n",
+        "url": "https://n8n.io",
+        "free_tier": "Self-host free",
+        "license": "Fair-code",
+        "description": "Source-available workflow automation tool you can self-host with hundreds of integrations and code nodes.",
+        "pros": [
+          "Self-host for free",
+          "Code nodes for custom logic",
+          "Hundreds of integrations"
+        ],
+        "cons": [
+          "Self-hosting required for free",
+          "Steeper learning curve",
+          "No managed triggers"
+        ],
+        "best_for": "Self-hosted automation",
+        "has_affiliate": true
+      },
+      {
+        "name": "Make (Integromat)",
+        "url": "https://make.com",
+        "free_tier": "1,000 ops/mo free",
+        "license": "Freemium",
+        "description": "Visual no-code automation builder with a drag-and-drop scenario editor and many app integrations.",
+        "pros": [
+          "Visual scenario builder",
+          "Generous free tier",
+          "Powerful routing and filters"
+        ],
+        "cons": [
+          "Ops counted on free",
+          "Can be complex",
+          "Premium apps limited"
+        ],
+        "best_for": "Visual no-code automation",
+        "has_affiliate": true
+      },
+      {
+        "name": "Activepieces",
+        "url": "https://activepieces.com",
+        "free_tier": "Self-host free",
+        "license": "Open Source",
+        "description": "Open-source no-code automation builder positioning itself as a user-friendly Zapier alternative.",
+        "pros": [
+          "Open source",
+          "User-friendly interface",
+          "Self-hostable"
+        ],
+        "cons": [
+          "Newer, fewer integrations",
+          "Smaller community",
+          "Less documentation"
+        ],
+        "best_for": "Open-source no-code automation",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Noom",
+    "paid_category": "Health & Weight Loss",
+    "paid_price": "$17.42/mo",
+    "alternatives": [
+      {
+        "name": "Cronometer",
+        "url": "https://cronometer.com",
+        "free_tier": "Free plan available",
+        "license": "Freemium",
+        "description": "Detailed nutrition and calorie tracker that logs micronutrients, not just calories. Syncs with wearables.",
+        "pros": [
+          "Tracks micronutrients accurately",
+          "Wearable sync",
+          "Verified food database"
+        ],
+        "cons": [
+          "Gold needed for some features",
+          "Less behavior coaching",
+          "Manual logging effort"
+        ],
+        "best_for": "Precise nutrition tracking",
+        "has_affiliate": false
+      },
+      {
+        "name": "Lifesum",
+        "url": "https://lifesum.com",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "description": "Meal and calorie tracking app with diet plans, recipes, and a friendly mobile interface.",
+        "pros": [
+          "Attractive UI",
+          "Built-in diet plans",
+          "Recipe suggestions"
+        ],
+        "cons": [
+          "Premium for full plans",
+          "Smaller food database",
+          "No behavior psychology"
+        ],
+        "best_for": "Guided meal planning",
+        "has_affiliate": false
+      },
+      {
+        "name": "FatSecret",
+        "url": "https://fatsecret.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "description": "Free calorie and food diary app with barcode scanner, community, and basic tracking — no premium paywall.",
+        "pros": [
+          "Completely free",
+          "Barcode scanner",
+          "Community support"
+        ],
+        "cons": [
+          "Basic interface",
+          "No coaching",
+          "Ads"
+        ],
+        "best_for": "Free food logging",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "QuillBot",
+    "paid_category": "AI Paraphrasing",
+    "paid_price": "$9.95/mo",
+    "alternatives": [
+      {
+        "name": "DeepL Write",
+        "url": "https://deepl.com/write",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "description": "AI writing assistant that rephrases, fixes grammar, and adjusts tone. Multilingual with high-quality output.",
+        "pros": [
+          "Excellent rephrasing quality",
+          "Multilingual",
+          "Clean interface"
+        ],
+        "cons": [
+          "Limited characters on free",
+          "No bulk rewriting",
+          "Pro needed for advanced tone"
+        ],
+        "best_for": "High-quality rephrasing",
+        "has_affiliate": false
+      },
+      {
+        "name": "Wordtune",
+        "url": "https://wordtune.com",
+        "free_tier": "10 rewrites/day free",
+        "license": "Freemium",
+        "description": "Browser extension and editor that rewrites and expands sentences with tone options and vocabulary suggestions.",
+        "pros": [
+          "In-context browser rewriting",
+          "Tone variations",
+          "Spelling and grammar fixes"
+        ],
+        "cons": [
+          "10 rewrites per day",
+          "Premium for full features",
+          "English only"
+        ],
+        "best_for": "In-browser sentence rewriting",
+        "has_affiliate": true
+      },
+      {
+        "name": "Rephrase.info",
+        "url": "https://rephrase.info",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "description": "Online paraphraser with multiple modes (fluency, standard, formal) and a plagiarism-check add-on.",
+        "pros": [
+          "Multiple paraphrase modes",
+          "No sign-up for basic use",
+          "Plagiarism check available"
+        ],
+        "cons": [
+          "Word limit on free",
+          "Ads on free",
+          "Quality varies by mode"
+        ],
+        "best_for": "Quick paragraph rewriting",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Opus Clip",
+    "paid_category": "AI Video Editing",
+    "paid_price": "$15/mo",
+    "alternatives": [
+      {
+        "name": "Vidyo.ai",
+        "url": "https://vidyo.ai",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "description": "Turns long videos into short clips with auto-captions, virality scoring, and social-platform formatting.",
+        "pros": [
+          "Auto clip selection",
+          "Auto captions",
+          "Multi-platform export sizes"
+        ],
+        "cons": [
+          "Watermark on free",
+          "Limited minutes per month",
+          "Credit-based free tier"
+        ],
+        "best_for": "Repurposing podcasts to clips",
+        "has_affiliate": true
+      },
+      {
+        "name": "Kapwing",
+        "url": "https://kapwing.com",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "description": "Web video editor with AI tools including auto-subtitles, background removal, and short-form clip creation.",
+        "pros": [
+          "Runs in browser",
+          "Many AI editing tools",
+          "Collaboration features"
+        ],
+        "cons": [
+          "Watermark on free exports",
+          "7-min export cap on free",
+          "Limited storage"
+        ],
+        "best_for": "Browser-based short-form editing",
+        "has_affiliate": false
+      },
+      {
+        "name": "Vizard.ai",
+        "url": "https://vizard.ai",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "description": "AI tool that crops long videos into vertical short clips with captions and a virality score.",
+        "pros": [
+          "Automatic vertical cropping",
+          "Caption generation",
+          "Clip scoring"
+        ],
+        "cons": [
+          "Limited free minutes",
+          "Watermark on free",
+          "Export limits"
+        ],
+        "best_for": "Vertical short-form clips",
+        "has_affiliate": true
+      }
+    ]
+  },
+  {
+    "paid_tool": "HeyGen",
+    "paid_category": "AI Video Generation",
+    "paid_price": "$29/mo",
+    "alternatives": [
+      {
+        "name": "D-ID",
+        "url": "https://d-id.com",
+        "free_tier": "Limited free credits",
+        "license": "Freemium",
+        "description": "Generates talking-head videos from a single photo and text or audio. Known for realistic lip-sync.",
+        "pros": [
+          "Realistic lip-sync",
+          "Photo-to-video in seconds",
+          "API available"
+        ],
+        "cons": [
+          "Few free credits",
+          "Watermark on free",
+          "Paid for HD and commercial use"
+        ],
+        "best_for": "Photo-to-talking-head videos",
+        "has_affiliate": false
+      },
+      {
+        "name": "SadTalker",
+        "url": "https://github.com/OpenTalker/SadTalker",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Open-source model that animates a portrait image with audio to generate talking-head videos locally.",
+        "pros": [
+          "Fully free and self-hosted",
+          "No watermark",
+          "Runs locally for privacy"
+        ],
+        "cons": [
+          "Requires GPU and setup",
+          "Slower than cloud tools",
+          "Less polished output"
+        ],
+        "best_for": "Self-hosted talking avatars",
+        "has_affiliate": false
+      },
+      {
+        "name": "Hedra",
+        "url": "https://hedra.com",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "description": "Generative video model that creates expressive character videos from an image and audio clip.",
+        "pros": [
+          "Expressive facial animation",
+          "Fast generation",
+          "Creative character options"
+        ],
+        "cons": [
+          "Limited free generations",
+          "Newer and less stable",
+          "Watermark on free"
+        ],
+        "best_for": "Expressive character animation",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Speechify",
+    "paid_category": "Text-to-Speech",
+    "paid_price": "$11.99/mo",
+    "alternatives": [
+      {
+        "name": "NaturalReader",
+        "url": "https://naturalreaders.com",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "description": "Text-to-speech reader for documents, PDFs, and web pages with a range of natural-sounding voices.",
+        "pros": [
+          "Reads PDFs and web pages",
+          "Decent natural voices",
+          "Browser and mobile apps"
+        ],
+        "cons": [
+          "Premium voices paid",
+          "Daily limit on free",
+          "Limited offline use"
+        ],
+        "best_for": "Reading documents aloud",
+        "has_affiliate": false
+      },
+      {
+        "name": "Microsoft Edge Read Aloud",
+        "url": "https://www.microsoft.com/edge",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "description": "Built-in browser read-aloud feature with free natural neural voices, including online and offline options.",
+        "pros": [
+          "Completely free",
+          "High-quality neural voices",
+          "No account needed"
+        ],
+        "cons": [
+          "Browser-only",
+          "Limited voice customization",
+          "No file library"
+        ],
+        "best_for": "Free natural reading in browser",
+        "has_affiliate": false
+      },
+      {
+        "name": "TTSMaker",
+        "url": "https://ttsmaker.com",
+        "free_tier": "Limited free weekly",
+        "license": "Freemium",
+        "description": "Free online text-to-speech generator with many languages and voices, no sign-up required for basic use.",
+        "pros": [
+          "No sign-up needed",
+          "Many languages and voices",
+          "Fast online generation"
+        ],
+        "cons": [
+          "Weekly character limit",
+          "No long-form library",
+          "Limited voice tuning"
+        ],
+        "best_for": "Quick free voice generation",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Turnitin",
+    "paid_category": "Plagiarism Checker",
+    "paid_price": "Institution license",
+    "alternatives": [
+      {
+        "name": "Copyscape",
+        "url": "https://copyscape.com",
+        "free_tier": "Free web checks",
+        "license": "Freemium",
+        "description": "Searches the web for copies of your pages. Free for checking URLs; premium for uploaded content.",
+        "pros": [
+          "Free for URL checks",
+          "Fast and simple",
+          "Good for web content"
+        ],
+        "cons": [
+          "Premium for file uploads",
+          "No student submission workflow",
+          "Limited free depth"
+        ],
+        "best_for": "Checking web content duplication",
+        "has_affiliate": false
+      },
+      {
+        "name": "DupliChecker",
+        "url": "https://duplichecker.com",
+        "free_tier": "1,000 words/search free",
+        "license": "Freemium",
+        "description": "Free plagiarism checker for text and documents with a daily free limit and additional SEO tools.",
+        "pros": [
+          "No sign-up for basic use",
+          "Up to 1,000 words per search",
+          "Extra SEO tools"
+        ],
+        "cons": [
+          "Daily search limits",
+          "Ads heavy",
+          "Less comprehensive than Turnitin"
+        ],
+        "best_for": "Quick free plagiarism scans",
+        "has_affiliate": false
+      },
+      {
+        "name": "PlagiarismCheck.org",
+        "url": "https://plagiarismcheck.org",
+        "free_tier": "Limited free trial",
+        "license": "Freemium",
+        "description": "Plagiarism detection for educators and students with similarity reports and source highlighting.",
+        "pros": [
+          "Detailed similarity reports",
+          "Source highlighting",
+          "Education-focused"
+        ],
+        "cons": [
+          "Limited free trial",
+          "Paid for institutional use",
+          "Smaller database than Turnitin"
+        ],
+        "best_for": "Educator plagiarism checks",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "YNAB (You Need A Budget)",
+    "paid_category": "Budgeting",
+    "paid_price": "$14.99/mo",
+    "alternatives": [
+      {
+        "name": "Actual Budget",
+        "url": "https://actualbudget.org",
+        "free_tier": "Self-host free",
+        "license": "Open Source",
+        "description": "Open-source envelope-based budgeting app inspired by YNAB4. Self-host for a full free experience.",
+        "pros": [
+          "Envelope budgeting method",
+          "Open source and self-hostable",
+          "Privacy-friendly"
+        ],
+        "cons": [
+          "Self-hosting required for free",
+          "No official mobile app hosting",
+          "Smaller community"
+        ],
+        "best_for": "Self-hosted envelope budgeting",
+        "has_affiliate": false
+      },
+      {
+        "name": "Firefly III",
+        "url": "https://firefly-iii.org",
+        "free_tier": "Self-host free",
+        "license": "Open Source",
+        "description": "Self-hosted personal finance manager with rules engine, budgets, reports, and a REST API.",
+        "pros": [
+          "Powerful rules engine",
+          "Detailed reporting",
+          "Fully self-hosted"
+        ],
+        "cons": [
+          "Self-hosting setup",
+          "Steeper learning curve",
+          "No native mobile app"
+        ],
+        "best_for": "Self-hosted finance management",
+        "has_affiliate": false
+      },
+      {
+        "name": "Goodbudget",
+        "url": "https://goodbudget.com",
+        "free_tier": "10 envelopes free",
+        "license": "Freemium",
+        "description": "Envelope budgeting app that syncs across devices. Free plan includes 10 envelopes and 2 accounts.",
+        "pros": [
+          "Syncs across devices",
+          "True envelope method",
+          "Easy to use"
+        ],
+        "cons": [
+          "10-envelope limit on free",
+          "No automatic bank import",
+          "Plus plan paid"
+        ],
+        "best_for": "Simple envelope budgeting",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "EndNote",
+    "paid_category": "Reference Manager",
+    "paid_price": "$249+",
+    "alternatives": [
+      {
+        "name": "Zotero",
+        "url": "https://zotero.org",
+        "free_tier": "300MB free sync",
+        "license": "Open Source",
+        "description": "Free research assistant that collects, organizes, cites, and shares sources with browser integration.",
+        "pros": [
+          "Excellent browser capture",
+          "Huge citation style library",
+          "Free with sync storage"
+        ],
+        "cons": [
+          "300MB free storage",
+          "Paid for group storage",
+          "Desktop-centric"
+        ],
+        "best_for": "Research reference management",
+        "has_affiliate": false
+      },
+      {
+        "name": "Mendeley",
+        "url": "https://mendeley.com",
+        "free_tier": "2GB free storage",
+        "license": "Freemium",
+        "description": "Reference manager and academic social network with PDF annotation and citation plugins for Word.",
+        "pros": [
+          "PDF annotation built in",
+          "Cite-in-Word plugin",
+          "Research recommendations"
+        ],
+        "cons": [
+          "2GB free storage",
+          "Elsevier owned (privacy concerns)",
+          "Limited free features"
+        ],
+        "best_for": "PDF reading and annotation",
+        "has_affiliate": false
+      },
+      {
+        "name": "JabRef",
+        "url": "https://jabref.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Native BibTeX reference manager geared toward LaTeX users, with online search and grouping.",
+        "pros": [
+          "Native BibTeX support",
+          "Great for LaTeX workflows",
+          "Fully free and open source"
+        ],
+        "cons": [
+          "BibTeX-focused",
+          "Less polished UI",
+          "Limited Word integration"
+        ],
+        "best_for": "LaTeX/BibTeX users",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Final Draft",
+    "paid_category": "Screenwriting",
+    "paid_price": "$249+",
+    "alternatives": [
+      {
+        "name": "Trelby",
+        "url": "https://trelby.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Free screenwriting application with industry-standard formatting, auto-complete, and reports.",
+        "pros": [
+          "Completely free",
+          "Industry-standard formatting",
+          "Character and location reports"
+        ],
+        "cons": [
+          "Desktop only",
+          "Dated interface",
+          "No real-time collaboration"
+        ],
+        "best_for": "Free desktop screenwriting",
+        "has_affiliate": false
+      },
+      {
+        "name": "WriterDuet",
+        "url": "https://writerduet.com",
+        "free_tier": "3 scripts free",
+        "license": "Freemium",
+        "description": "Collaborative screenwriting app with real-time co-writing and industry-standard formatting.",
+        "pros": [
+          "Real-time collaboration",
+          "Works in browser",
+          "Imports Final Draft files"
+        ],
+        "cons": [
+          "3-script limit on free",
+          "Paid for offline and exports",
+          "Watermark on some exports"
+        ],
+        "best_for": "Collaborative screenwriting",
+        "has_affiliate": false
+      },
+      {
+        "name": "Celtx",
+        "url": "https://celtx.com",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "description": "All-in-one pre-production suite for scriptwriting, storyboarding, scheduling, and breakdowns.",
+        "pros": [
+          "Script + pre-production tools",
+          "Cloud-based",
+          "Templates for formats"
+        ],
+        "cons": [
+          "Most features paid",
+          "Ads and upsells on free",
+          "Limited free exports"
+        ],
+        "best_for": "All-in-one pre-production",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "IXL",
+    "paid_category": "K-12 Learning",
+    "paid_price": "$9.95/mo",
+    "alternatives": [
+      {
+        "name": "Khan Academy",
+        "url": "https://khanacademy.org",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "description": "Free standards-aligned lessons and practice across math, science, humanities, and test prep.",
+        "pros": [
+          "Completely free",
+          "Deep math and science content",
+          "Mastery-based learning"
+        ],
+        "cons": [
+          "No live tutoring",
+          "Less gamified than IXL",
+          "Self-paced needs motivation"
+        ],
+        "best_for": "Free standards-aligned learning",
+        "has_affiliate": false
+      },
+      {
+        "name": "DeltaMath",
+        "url": "https://deltamath.com",
+        "free_tier": "Teacher plan free",
+        "license": "Freemium",
+        "description": "Math practice platform with auto-graded problems, hints, and detailed solutions for grades 6-12.",
+        "pros": [
+          "Auto-graded math practice",
+          "Detailed solutions",
+          "Free teacher plan"
+        ],
+        "cons": [
+          "Math only",
+          "Paid for advanced features",
+          "Less broad than IXL"
+        ],
+        "best_for": "Middle and high school math practice",
+        "has_affiliate": false
+      },
+      {
+        "name": "Prodigy",
+        "url": "https://prodigygame.com",
+        "free_tier": "Free core game",
+        "license": "Freemium",
+        "description": "Gamified math game where students battle by solving curriculum-aligned problems.",
+        "pros": [
+          "Engaging game format",
+          "Curriculum-aligned",
+          "Free for students"
+        ],
+        "cons": [
+          "Membership upsells heavy",
+          "Math-focused",
+          "Members get more content"
+        ],
+        "best_for": "Gamified elementary math",
+        "has_affiliate": true
+      }
+    ]
+  },
+  {
+    "paid_tool": "GoodNotes",
+    "paid_category": "Note Taking",
+    "paid_price": "$9.99/yr",
+    "alternatives": [
+      {
+        "name": "Microsoft OneNote",
+        "url": "https://onenote.com",
+        "free_tier": "Fully Free",
+        "license": "Freemium",
+        "description": "Digital notebook with sections, pages, handwriting support, and cross-device sync via OneDrive.",
+        "pros": [
+          "Free with no limits",
+          "Inking and handwriting support",
+          "Cross-platform sync"
+        ],
+        "cons": [
+          "Interface can feel cluttered",
+          "No PDF export on all platforms",
+          "Sync needs Microsoft account"
+        ],
+        "best_for": "Cross-platform digital notebook",
+        "has_affiliate": false
+      },
+      {
+        "name": "Xournal++",
+        "url": "https://xournalpp.github.io",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Open-source handwriting and PDF annotation app with pressure-sensitive pen support.",
+        "pros": [
+          "Full PDF annotation",
+          "Pressure-sensitive pens",
+          "Open source"
+        ],
+        "cons": [
+          "Desktop only",
+          "Less polished UI",
+          "No cloud sync"
+        ],
+        "best_for": "Open-source handwriting notes",
+        "has_affiliate": false
+      },
+      {
+        "name": "Apple Notes",
+        "url": "https://www.icloud.com/notes",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "description": "Built-in Apple note app with handwriting, checklists, scanning, and quick Apple Pencil support.",
+        "pros": [
+          "Free on Apple devices",
+          "Apple Pencil support",
+          "iCloud sync"
+        ],
+        "cons": [
+          "Apple ecosystem only",
+          "Limited export",
+          "Fewer power features than GoodNotes"
+        ],
+        "best_for": "Apple users' quick notes",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Doodle",
+    "paid_category": "Scheduling / Polls",
+    "paid_price": "$6.95/mo",
+    "alternatives": [
+      {
+        "name": "Rallly",
+        "url": "https://rallly.co",
+        "free_tier": "Self-host free",
+        "license": "Open Source",
+        "description": "Open-source group scheduling and meeting poll tool. Self-host for free, or use the hosted free tier.",
+        "pros": [
+          "Open source",
+          "No ads",
+          "Clean modern UI"
+        ],
+        "cons": [
+          "Self-hosting for full free",
+          "Smaller community",
+          "Fewer integrations"
+        ],
+        "best_for": "Self-hosted meeting polls",
+        "has_affiliate": false
+      },
+      {
+        "name": "Framadate",
+        "url": "https://framadate.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Free open-source poll maker for scheduling dates and general polls, hosted by Framasoft or self-hosted.",
+        "pros": [
+          "Fully free",
+          "Privacy-respecting",
+          "Self-hostable"
+        ],
+        "cons": [
+          "Basic interface",
+          "Limited features",
+          "French-origin docs"
+        ],
+        "best_for": "Simple free date polls",
+        "has_affiliate": false
+      },
+      {
+        "name": "Cal.com",
+        "url": "https://cal.com",
+        "free_tier": "Free plan available",
+        "license": "Open Source",
+        "description": "Open-source scheduling platform with booking pages, round-robin, and team scheduling on the free plan.",
+        "pros": [
+          "Open source",
+          "Generous free plan",
+          "Self-hostable"
+        ],
+        "cons": [
+          "More booking than polls",
+          "Setup for self-host",
+          "Fewer apps than Calendly"
+        ],
+        "best_for": "Open-source appointment scheduling",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Eventbrite",
+    "paid_category": "Event Management",
+    "paid_price": "Per-ticket fees",
+    "alternatives": [
+      {
+        "name": "Pretix",
+        "url": "https://pretix.eu",
+        "free_tier": "Self-host free",
+        "license": "Open Source",
+        "description": "Open-source ticketing system with a powerful plugin system. Free events are always free of fees.",
+        "pros": [
+          "Open source and self-hostable",
+          "No fees on free events",
+          "Flexible plugin system"
+        ],
+        "cons": [
+          "Self-hosting for full free",
+          "Steeper setup",
+          "Smaller community"
+        ],
+        "best_for": "Self-hosted event ticketing",
+        "has_affiliate": false
+      },
+      {
+        "name": "Attendize",
+        "url": "https://attendize.com",
+        "free_tier": "Self-host free",
+        "license": "Open Source",
+        "description": "Open-source ticketing and event management platform with QR check-in and attendee management.",
+        "pros": [
+          "Self-hostable",
+          "QR code check-in",
+          "Customizable tickets"
+        ],
+        "cons": [
+          "Self-hosting required",
+          "Less polished UI",
+          "Smaller community"
+        ],
+        "best_for": "Self-hosted ticketing with check-in",
+        "has_affiliate": false
+      },
+      {
+        "name": "TicketSource",
+        "url": "https://ticketsource.co.uk",
+        "free_tier": "Free for free events",
+        "license": "Freemium",
+        "description": "UK-based ticketing platform that is free for free events and charges a per-ticket fee on paid events.",
+        "pros": [
+          "Free for free events",
+          "No setup cost",
+          "Box office tools"
+        ],
+        "cons": [
+          "Per-ticket fee on paid",
+          "UK-centric",
+          "Fewer marketing features"
+        ],
+        "best_for": "Free community events",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Replit",
+    "paid_category": "Cloud IDE",
+    "paid_price": "$8.25/mo",
+    "alternatives": [
+      {
+        "name": "GitHub Codespaces",
+        "url": "https://github.com/features/codespaces",
+        "free_tier": "120 core-hours/mo free",
+        "license": "Freemium",
+        "description": "Cloud-hosted dev environments integrated with GitHub, configurable with devcontainer.json.",
+        "pros": [
+          "Tight GitHub integration",
+          "Generous free tier",
+          "Full VS Code experience"
+        ],
+        "cons": [
+          "Free hours can run out",
+          "Requires GitHub account",
+          "Auto-suspend behavior"
+        ],
+        "best_for": "GitHub-integrated cloud dev",
+        "has_affiliate": false
+      },
+      {
+        "name": "Gitpod",
+        "url": "https://gitpod.io",
+        "free_tier": "50 hours/mo free",
+        "license": "Freemium",
+        "description": "Ephemeral cloud dev environments launched from any Git repo with reproducible devcontainer setups.",
+        "pros": [
+          "Spin up from any repo",
+          "Reproducible environments",
+          "Open-source self-host option"
+        ],
+        "cons": [
+          "50 free hours per month",
+          "Cold start latency",
+          "Paid for always-on"
+        ],
+        "best_for": "Ephemeral dev environments",
+        "has_affiliate": true
+      },
+      {
+        "name": "CodeSandbox",
+        "url": "https://codesandbox.io",
+        "free_tier": "Limited free",
+        "license": "Freemium",
+        "description": "Web-based IDE optimized for web apps and prototyping, with instant preview and sharing.",
+        "pros": [
+          "Instant preview",
+          "Great for web frameworks",
+          "Easy sharing"
+        ],
+        "cons": [
+          "Limited on free",
+          "Focused on web/JS",
+          "Less full-backend support"
+        ],
+        "best_for": "Web app prototyping",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "TradingView",
+    "paid_category": "Charting & Trading",
+    "paid_price": "$14.95/mo",
+    "alternatives": [
+      {
+        "name": "MetaTrader 5",
+        "url": "https://metatrader5.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "description": "Free multi-asset trading platform with advanced charting, technical analysis, and automated trading via EAs.",
+        "pros": [
+          "Fully free",
+          "Automated trading (EAs)",
+          "Deep broker integration"
+        ],
+        "cons": [
+          "Complex interface",
+          "Windows-centric desktop",
+          "Limited web charts"
+        ],
+        "best_for": "Forex and CFD trading",
+        "has_affiliate": false
+      },
+      {
+        "name": "ProRealTime",
+        "url": "https://prorealtime.com",
+        "free_tier": "Free with broker",
+        "license": "Freemium",
+        "description": "Professional charting platform with end-of-day data free and real-time data free if you trade via a partner broker.",
+        "pros": [
+          "Free end-of-day data",
+          "Powerful screener",
+          "ProBuilder scripting"
+        ],
+        "cons": [
+          "Free real-time needs broker",
+          "Desktop app heavy",
+          "Steeper learning curve"
+        ],
+        "best_for": "End-of-day charting",
+        "has_affiliate": false
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "description": "Free web charts, quotes, watchlists, and financial news for stocks, ETFs, and crypto.",
+        "pros": [
+          "Completely free",
+          "Broad instrument coverage",
+          "News and fundamentals"
+        ],
+        "cons": [
+          "Basic charting tools",
+          "No scripting",
+          "Ad-supported"
+        ],
+        "best_for": "Free basic charts",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "ZBrush",
+    "paid_category": "3D Sculpting",
+    "paid_price": "$39.95/mo",
+    "alternatives": [
+      {
+        "name": "Blender (Sculpt Mode)",
+        "url": "https://blender.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Blender's sculpt mode offers brushes, dynamic topology, voxel remeshing, and is fully free for high-detail sculpting.",
+        "pros": [
+          "Fully free",
+          "Integrated with full 3D pipeline",
+          "Active add-on ecosystem"
+        ],
+        "cons": [
+          "Less optimized than ZBrush for huge poly counts",
+          "Steeper learning curve",
+          "Different brush feel"
+        ],
+        "best_for": "Free integrated 3D sculpting",
+        "has_affiliate": false
+      },
+      {
+        "name": "Sculptris",
+        "url": "https://zbrushcentral.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "description": "Lightweight free digital sculpting app from the makers of ZBrush, great for beginners learning 3D sculpting.",
+        "pros": [
+          "Very easy to learn",
+          "Lightweight",
+          "Good introduction to sculpting"
+        ],
+        "cons": [
+          "Discontinued and 32-bit",
+          "Limited features",
+          "No longer updated"
+        ],
+        "best_for": "Beginner 3D sculpting",
+        "has_affiliate": false
+      },
+      {
+        "name": "SculptGL",
+        "url": "https://github.com/stephomi/sculptgl",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Browser-based open-source sculpting tool with dyn-topo, brushes, and voxel operations.",
+        "pros": [
+          "Runs in browser",
+          "Open source",
+          "No install needed"
+        ],
+        "cons": [
+          "Limited brush set",
+          "WebGL performance limits",
+          "Basic interface"
+        ],
+        "best_for": "Browser-based sculpting",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Plex",
+    "paid_category": "Media Server",
+    "paid_price": "$4.99/mo",
+    "alternatives": [
+      {
+        "name": "Jellyfin",
+        "url": "https://jellyfin.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Fully free and open-source media server with no paywalled features, clients for many devices, and live TV support.",
+        "pros": [
+          "No paywalled features",
+          "Open source",
+          "Many client apps"
+        ],
+        "cons": [
+          "Requires self-hosting",
+          "Smaller client ecosystem than Plex",
+          "Setup needed"
+        ],
+        "best_for": "Fully free media server",
+        "has_affiliate": false
+      },
+      {
+        "name": "Emby",
+        "url": "https://emby.media",
+        "free_tier": "Free server with paid Premiere",
+        "license": "Freemium",
+        "description": "Personal media server with apps across platforms and optional Premiere for live TV and apps.",
+        "pros": [
+          "Broad device apps",
+          "Live TV and DVR",
+          "Good transcoding"
+        ],
+        "cons": [
+          "Premiere is paid",
+          "Some mobile apps gated",
+          "Self-hosting needed"
+        ],
+        "best_for": "Media server with live TV",
+        "has_affiliate": false
+      },
+      {
+        "name": "Kodi",
+        "url": "https://kodi.tv",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Free and open-source media center application for organizing and playing local media with a huge add-on ecosystem.",
+        "pros": [
+          "Completely free",
+          "Huge add-on library",
+          "Highly customizable"
+        ],
+        "cons": [
+          "Local media center (not server)",
+          "Setup complexity",
+          "Add-on quality varies"
+        ],
+        "best_for": "Local media center",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Life360",
+    "paid_category": "Family Location",
+    "paid_price": "$4.99/mo",
+    "alternatives": [
+      {
+        "name": "Google Maps location sharing",
+        "url": "https://maps.google.com",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "description": "Share your real-time location with chosen contacts via Google Maps, with no time or member limits on the free plan.",
+        "pros": [
+          "Completely free",
+          "No member limits",
+          "Already on most phones"
+        ],
+        "cons": [
+          "Manual sharing setup",
+          "Less family-focused features",
+          "Requires Google account"
+        ],
+        "best_for": "Simple free location sharing",
+        "has_affiliate": false
+      },
+      {
+        "name": "Apple Find My",
+        "url": "https://www.icloud.com/find",
+        "free_tier": "Fully Free",
+        "license": "Free",
+        "description": "Apple's built-in device and people location service with family sharing and Find My network for offline devices.",
+        "pros": [
+          "Free on Apple devices",
+          "Works offline via Find My network",
+          "Family sharing built in"
+        ],
+        "cons": [
+          "Apple ecosystem only",
+          "Less driving/roadside features",
+          "No driving history"
+        ],
+        "best_for": "Apple ecosystem families",
+        "has_affiliate": false
+      },
+      {
+        "name": "OwnTracks",
+        "url": "https://owntracks.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Open-source location tracking app that publishes your location to a self-hosted MQTT broker for full privacy.",
+        "pros": [
+          "Open source",
+          "Full privacy via self-hosting",
+          "No ads or tracking"
+        ],
+        "cons": [
+          "Requires MQTT server setup",
+          "No family UI",
+          "Tech-savvy only"
+        ],
+        "best_for": "Self-hosted private tracking",
+        "has_affiliate": false
+      }
+    ]
+  },
+  {
+    "paid_tool": "Krisp",
+    "paid_category": "Noise Cancellation",
+    "paid_price": "$8/mo",
+    "alternatives": [
+      {
+        "name": "NVIDIA Broadcast",
+        "url": "https://nvidia.com/broadcast-app",
+        "free_tier": "Free with RTX GPU",
+        "license": "Free",
+        "description": "AI noise removal, virtual background, and eye contact features free for users with an NVIDIA RTX GPU.",
+        "pros": [
+          "Excellent AI noise removal",
+          "Free with RTX card",
+          "Virtual background included"
+        ],
+        "cons": [
+          "Requires RTX GPU",
+          "Windows-focused",
+          "GPU resource heavy"
+        ],
+        "best_for": "RTX GPU owners",
+        "has_affiliate": false
+      },
+      {
+        "name": "OBS RNNoise",
+        "url": "https://obsproject.com",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "OBS Studio's built-in RNNoise noise suppression filter removes background noise from any mic in real time.",
+        "pros": [
+          "Fully free",
+          "Built into OBS",
+          "Open source neural net"
+        ],
+        "cons": [
+          "Best used within OBS",
+          "Less refined than Krisp",
+          "No app-wide system audio"
+        ],
+        "best_for": "Streaming and recording",
+        "has_affiliate": false
+      },
+      {
+        "name": "Audacity Noise Reduction",
+        "url": "https://audacityteam.org",
+        "free_tier": "Fully Free",
+        "license": "Open Source",
+        "description": "Free audio editor with a noise reduction effect that samples background noise and removes it from recordings.",
+        "pros": [
+          "Fully free",
+          "Good for post-processing",
+          "Cross-platform"
+        ],
+        "cons": [
+          "Post-processing only (not live)",
+          "Manual noise profiling needed",
+          "Can affect voice quality"
+        ],
+        "best_for": "Cleaning recorded audio",
+        "has_affiliate": false
       }
     ]
   }
